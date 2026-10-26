@@ -1,0 +1,83 @@
+* { box-sizing: border-box; }
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #f4f6fb;
+  margin: 0;
+  color: #1f2937;
+}
+.container {
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1rem 3rem;
+}
+h1 { margin-bottom: 0.25rem; }
+.subtitle { color: #6b7280; margin-top: 0; }
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+label { display: block; margin: 0.5rem 0; }
+select, button {
+  font-size: 1rem;
+  padding: 0.5rem 0.75rem;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+}
+button.primary {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+button.primary:hover { background: #1d4ed8; }
+button.primary:disabled { background: #9ca3af; cursor: not-allowed; }
+.qnum { font-size: 0.8rem; color: #6b7280; margin: 0 0 0.25rem; }
+.qtext { font-weight: 600; margin: 0 0 0.75rem; }
+.option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.option:hover { background: #f3f4f6; }
+.correct { border-left: 6px solid #16a34a; }
+.wrong { border-left: 6px solid #dc2626; }
+.explanation { color: #374151; font-style: italic; }
+.hint { color: #6b7280; font-size: 0.9rem; }
+.error {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+}
+
+/* --- top bar with Home button --- */
+.topbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+.topbar h1 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+button.ghost {
+  background: transparent;
+  color: #2563eb;
+  border: 1px solid #c7d2fe;
+  border-radius: 8px;
+  padding: 0.4rem 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+button.ghost:hover {
+  background: #eef2ff;
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grade 7 Vocabulary Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+
+    <!-- ===== START SCREEN ===== -->
+    <section id="start-screen">
+      <h1>Grade 7 Vocabulary Quiz</h1>
+      <p class="subtitle" id="bank-info">Loading question bank…</p>
+
+      <div class="card">
+        <label for="unit-select">Choose a unit:</label>
+        <select id="unit-select"></select>
+
+        <label for="type-select">Question type:</label>
+        <select id="type-select">
+          <option value="all">All types</option>
+          <option value="multiple_choice">Multiple choice</option>
+          <option value="fill_blank">Fill in the blank</option>
+          <option value="true_false">True / False</option>
+        </select>
+
+        <label for="num-select">Number of questions:</label>
+        <select id="num-select">
+          <option value="5">5</option>
+          <option value="10" selected>10</option>
+          <option value="20">20</option>
+          <option value="999">All</option>
+        </select>
+
+        <button id="start-btn" class="primary" type="button">Start Quiz</button>
+      </div>
+
+      <p class="hint">
+        Edit <code>questions.json</code> to add or update questions.
+        Changes appear next time you reload the page.
+      </p>
+    </section>
+
+    <!-- ===== QUIZ SCREEN ===== -->
+    <section id="quiz-screen" hidden>
+      <div class="topbar">
+        <button id="home-btn-quiz" class="ghost" type="button">🏠 Home</button>
+        <h1>Quiz</h1>
+      </div>
+      <p class="subtitle" id="progress-info"></p>
+      <form id="quiz-form"></form>
+      <button id="submit-btn" class="primary" type="button">Submit Answers</button>
+    </section>
+
+    <!-- ===== RESULT SCREEN ===== -->
+    <section id="result-screen" hidden>
+      <div class="topbar">
+        <button id="home-btn-result" class="ghost" type="button">🏠 Home</button>
+        <h1 id="score-heading">Results</h1>
+      </div>
+      <div id="results-list"></div>
+      <button id="restart-btn" class="primary" type="button">Try Again</button>
+    </section>
+
+    <p id="error-box" class="error" hidden></p>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

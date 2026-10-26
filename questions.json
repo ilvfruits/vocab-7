@@ -1,0 +1,4527 @@
+{
+  "units": ["Unit 1", "Unit 2", "Unit 3"],
+  "questions": [
+    {
+      "id": 1,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'near, next to, adjoining'?",
+      "options": ["adjacent", "barren", "sullen", "trivial"],
+      "answer": 0,
+      "explanation": "Adjacent means near or next to."
+    },
+    {
+      "id": 2,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'to begin to grow, come into being'?",
+      "options": ["germinate", "hurtle", "insinuate", "renovate"],
+      "answer": 0,
+      "explanation": "Germinate means to begin to grow or come into being."
+    },
+    {
+      "id": 3,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'ordinary, dull, routine, without variation'?",
+      "options": ["humdrum", "vicious", "interminable", "trivial"],
+      "answer": 0,
+      "explanation": "Humdrum means ordinary, dull, or routine."
+    },
+    {
+      "id": 4,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'endless, so long as to seem endless'?",
+      "options": ["interminable", "trivial", "sullen", "barren"],
+      "answer": 0,
+      "explanation": "Interminable means endless."
+    },
+    {
+      "id": 5,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'a pause in fighting, temporary peace'?",
+      "options": ["truce", "dynasty", "foretaste", "résumé"],
+      "answer": 0,
+      "explanation": "A truce is a pause in fighting."
+    },
+    {
+      "id": 6,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'evil, spiteful; painfully severe or extreme'?",
+      "options": ["vicious", "sullen", "barren", "trivial"],
+      "answer": 0,
+      "explanation": "Vicious means evil, spiteful, or painfully severe."
+    },
+    {
+      "id": 7,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'to suggest or hint slyly'?",
+      "options": ["insinuate", "interrogate", "disrupt", "renovate"],
+      "answer": 0,
+      "explanation": "Insinuate means to suggest or hint slyly."
+    },
+    {
+      "id": 8,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'to repair, restore to good condition, make new again'?",
+      "options": ["renovate", "recompense", "germinate", "alight"],
+      "answer": 0,
+      "explanation": "Renovate means to repair or restore."
+    },
+    {
+      "id": 9,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'not productive, bare'?",
+      "options": ["barren", "sullen", "humdrum", "vicious"],
+      "answer": 0,
+      "explanation": "Barren means not productive or bare."
+    },
+    {
+      "id": 10,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word means 'to pay back; to give a reward'?",
+      "options": ["recompense", "renovate", "disrupt", "hurtle"],
+      "answer": 0,
+      "explanation": "Recompense means to pay back or reward."
+    },
+
+    {
+      "id": 11,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The desert landscape looked completely _____, with no plants or water for miles.'",
+      "options": ["barren", "animated", "poised", "literate"],
+      "answer": 0,
+      "explanation": "Barren means not productive or bare — perfect for a plantless desert."
+    },
+    {
+      "id": 12,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Please do not _____ the class by shouting out answers without raising your hand.'",
+      "options": ["disrupt", "alight", "renovate", "germinate"],
+      "answer": 0,
+      "explanation": "Disrupt means to break up or disturb."
+    },
+    {
+      "id": 13,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'After the argument, she gave me a _____ look and refused to speak.'",
+      "options": ["sullen", "trivial", "vicious", "interminable"],
+      "answer": 0,
+      "explanation": "Sullen means silent or brooding because of ill humor or anger."
+    },
+    {
+      "id": 14,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two countries finally agreed to a _____ after years of fighting.'",
+      "options": ["truce", "dynasty", "résumé", "foretaste"],
+      "answer": 0,
+      "explanation": "A truce is a pause in fighting."
+    },
+    {
+      "id": 15,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Don't worry about such a _____ mistake — everyone makes it.'",
+      "options": ["trivial", "barren", "vicious", "interminable"],
+      "answer": 0,
+      "explanation": "Trivial means not important or minor."
+    },
+    {
+      "id": 16,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The cat managed to _____ from the high branch without getting hurt.'",
+      "options": ["alight", "hurtle", "insinuate", "renovate"],
+      "answer": 0,
+      "explanation": "Alight means to get down from or step down from."
+    },
+    {
+      "id": 17,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'You will be _____ for any supplies you buy for the project.'",
+      "options": ["recompensed", "disrupted", "renovated", "germinated"],
+      "answer": 0,
+      "explanation": "Recompense means to pay back or give a reward."
+    },
+    {
+      "id": 18,
+      "unit": "Unit 1",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ storm destroyed several homes along the coast.'",
+      "options": ["vicious", "humdrum", "trivial", "barren"],
+      "answer": 0,
+      "explanation": "Vicious means painfully severe or extreme."
+    },
+
+    {
+      "id": 19,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'barren'?",
+      "options": ["fertile", "distant", "brief", "kind"],
+      "answer": 0,
+      "explanation": "Barren means unproductive; fertile is the opposite."
+    },
+    {
+      "id": 20,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'interminable'?",
+      "options": ["brief", "endless", "sullen", "vicious"],
+      "answer": 0,
+      "explanation": "Interminable means endless; brief is the opposite."
+    },
+    {
+      "id": 21,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'trivial'?",
+      "options": ["important", "minor", "petty", "insignificant"],
+      "answer": 0,
+      "explanation": "Trivial means unimportant; important is the opposite."
+    },
+    {
+      "id": 22,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'vicious'?",
+      "options": ["kind", "wicked", "malicious", "spiteful"],
+      "answer": 0,
+      "explanation": "Vicious means evil or spiteful; kind is the opposite."
+    },
+    {
+      "id": 23,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'hurtle'?",
+      "options": ["speed", "crawl", "creep", "linger"],
+      "answer": 0,
+      "explanation": "Hurtle means to rush violently or speed."
+    },
+    {
+      "id": 24,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'germinate'?",
+      "options": ["sprout", "wither", "shrivel", "die"],
+      "answer": 0,
+      "explanation": "Germinate means to begin to grow; sprout is a synonym."
+    },
+    {
+      "id": 25,
+      "unit": "Unit 1",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'sullen'?",
+      "options": ["moody", "cheerful", "bright", "joyful"],
+      "answer": 0,
+      "explanation": "Sullen means silent or brooding; moody is a synonym."
+    },
+
+    {
+      "id": 26,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'ready for use, at hand'?",
+      "options": ["available", "customary", "poised", "transparent"],
+      "answer": 0,
+      "explanation": "Available means ready for use or at hand."
+    },
+    {
+      "id": 27,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'to satisfy the needs of; to supply food and service'?",
+      "options": ["cater", "hinder", "pelt", "lubricate"],
+      "answer": 0,
+      "explanation": "Cater means to satisfy needs or supply food and service."
+    },
+    {
+      "id": 28,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'usual, expected, routine'?",
+      "options": ["customary", "indignant", "mutual", "unscathed"],
+      "answer": 0,
+      "explanation": "Customary means usual, expected, or routine."
+    },
+    {
+      "id": 29,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'to persuade not to do something'?",
+      "options": ["dissuade", "cater", "hinder", "pelt"],
+      "answer": 0,
+      "explanation": "Dissuade means to persuade not to do something."
+    },
+    {
+      "id": 30,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'a person who starts up and takes on the risk of a business'?",
+      "options": ["entrepreneur", "firebrand", "homicide", "regime"],
+      "answer": 0,
+      "explanation": "An entrepreneur starts a business and takes on the risk."
+    },
+    {
+      "id": 31,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'a piece of burning wood; a troublemaker; an extremely energetic or emotional person'?",
+      "options": ["firebrand", "entrepreneur", "hazard", "plague"],
+      "answer": 0,
+      "explanation": "A firebrand is a troublemaker or extremely energetic person."
+    },
+    {
+      "id": 32,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'risk, peril; to expose to danger or harm'?",
+      "options": ["hazard", "homicide", "regime", "plague"],
+      "answer": 0,
+      "explanation": "Hazard means risk or peril."
+    },
+    {
+      "id": 33,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'to delay; to stop or prevent from happening'?",
+      "options": ["hinder", "cater", "pelt", "lubricate"],
+      "answer": 0,
+      "explanation": "Hinder means to delay or prevent."
+    },
+    {
+      "id": 34,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'absolutely necessary, not to be neglected'?",
+      "options": ["indispensable", "indifferent", "indignant", "transparent"],
+      "answer": 0,
+      "explanation": "Indispensable means absolutely necessary."
+    },
+    {
+      "id": 35,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'shared, felt, or shown equally by two or more'?",
+      "options": ["mutual", "indignant", "customary", "poised"],
+      "answer": 0,
+      "explanation": "Mutual means shared by two or more."
+    },
+    {
+      "id": 36,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word means 'unharmed, not injured'?",
+      "options": ["unscathed", "indignant", "poised", "transparent"],
+      "answer": 0,
+      "explanation": "Unscathed means unharmed."
+    },
+
+    {
+      "id": 37,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher was _____ when she discovered that someone had torn pages from the textbook.'",
+      "options": ["indignant", "indifferent", "transparent", "poised"],
+      "answer": 0,
+      "explanation": "Indignant means filled with resentment or anger over something unjust."
+    },
+    {
+      "id": 38,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'It is _____ to remove your shoes before entering a Japanese home.'",
+      "options": ["customary", "mutual", "unscathed", "indignant"],
+      "answer": 0,
+      "explanation": "Customary means usual or expected."
+    },
+    {
+      "id": 39,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Drinking and driving is a serious _____ to everyone on the road.'",
+      "options": ["hazard", "regime", "homicide", "entrepreneur"],
+      "answer": 0,
+      "explanation": "Hazard means risk or peril."
+    },
+    {
+      "id": 40,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The heavy fog may _____ our ability to see the road clearly.'",
+      "options": ["hinder", "cater", "pelt", "lubricate"],
+      "answer": 0,
+      "explanation": "Hinder means to delay or prevent."
+    },
+    {
+      "id": 41,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The windows were so _____ that we could see the mountains perfectly.'",
+      "options": ["transparent", "indignant", "mutual", "poised"],
+      "answer": 0,
+      "explanation": "Transparent means allowing light to pass through; clear."
+    },
+    {
+      "id": 42,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The monkeys began to _____ each other with bits of fruit.'",
+      "options": ["pelt", "cater", "hinder", "lubricate"],
+      "answer": 0,
+      "explanation": "Pelt means to throw a stream of things."
+    },
+    {
+      "id": 43,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She applied oil to _____ the bicycle chain.'",
+      "options": ["lubricate", "hinder", "cater", "pelt"],
+      "answer": 0,
+      "explanation": "Lubricate means to apply oil or grease."
+    },
+    {
+      "id": 44,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Despite the dangerous crash, the passengers were _____.'",
+      "options": ["unscathed", "indignant", "indifferent", "poised"],
+      "answer": 0,
+      "explanation": "Unscathed means unharmed."
+    },
+    {
+      "id": 45,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The tickets are still _____ if you want to join us.'",
+      "options": ["available", "customary", "mutual", "transparent"],
+      "answer": 0,
+      "explanation": "Available means ready for use or at hand."
+    },
+    {
+      "id": 46,
+      "unit": "Unit 2",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The gymnast was _____ at the edge of the mat, waiting for the signal.'",
+      "options": ["poised", "indignant", "transparent", "unscathed"],
+      "answer": 0,
+      "explanation": "Poised means balanced, calm, controlled, ready for action."
+    },
+
+    {
+      "id": 47,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'dissuade'?",
+      "options": ["persuade", "discourage", "hinder", "prevent"],
+      "answer": 0,
+      "explanation": "Dissuade means to persuade not to; persuade is the opposite."
+    },
+    {
+      "id": 48,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'indispensable'?",
+      "options": ["unnecessary", "essential", "crucial", "vital"],
+      "answer": 0,
+      "explanation": "Indispensable means absolutely necessary; unnecessary is the opposite."
+    },
+    {
+      "id": 49,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'mutual'?",
+      "options": ["one-sided", "shared", "joint", "reciprocal"],
+      "answer": 0,
+      "explanation": "Mutual means shared by two or more; one-sided is the opposite."
+    },
+    {
+      "id": 50,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'transparent'?",
+      "options": ["unclear", "clear", "obvious", "plain"],
+      "answer": 0,
+      "explanation": "Transparent means clear or obvious; unclear is the opposite."
+    },
+    {
+      "id": 51,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'hinder'?",
+      "options": ["block", "encourage", "further", "help"],
+      "answer": 0,
+      "explanation": "Hinder means to delay or block."
+    },
+    {
+      "id": 52,
+      "unit": "Unit 2",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'indignant'?",
+      "options": ["offended", "pleased", "delighted", "elated"],
+      "answer": 0,
+      "explanation": "Indignant means filled with resentment; offended is a synonym."
+    },
+
+    {
+      "id": 53,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'full of life, lively, alive'?",
+      "options": ["animated", "peevish", "literate", "upright"],
+      "answer": 0,
+      "explanation": "Animated means full of life or lively."
+    },
+    {
+      "id": 54,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to reach a high point of development; to end, climax'?",
+      "options": ["culminate", "singe", "verify", "yearn"],
+      "answer": 0,
+      "explanation": "Culminate means to reach a high point or climax."
+    },
+    {
+      "id": 55,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to drive or urge on'?",
+      "options": ["goad", "indulge", "brood", "loom"],
+      "answer": 0,
+      "explanation": "Goad means to drive or urge on."
+    },
+    {
+      "id": 56,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to give in to a wish or desire'?",
+      "options": ["indulge", "goad", "brood", "yearn"],
+      "answer": 0,
+      "explanation": "Indulge means to give in to a wish or desire."
+    },
+    {
+      "id": 57,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'one of the materials in a mixture, recipe, or formula'?",
+      "options": ["ingredient", "oration", "luster", "drone"],
+      "answer": 0,
+      "explanation": "An ingredient is one of the materials in a mixture or recipe."
+    },
+    {
+      "id": 58,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'able to read and write; showing an excellent educational background'?",
+      "options": ["literate", "peevish", "animated", "unique"],
+      "answer": 0,
+      "explanation": "Literate means able to read and write."
+    },
+    {
+      "id": 59,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'mixed, of different kinds'?",
+      "options": ["miscellaneous", "unique", "peevish", "upright"],
+      "answer": 0,
+      "explanation": "Miscellaneous means mixed or of different kinds."
+    },
+    {
+      "id": 60,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'a public speech for a formal occasion'?",
+      "options": ["oration", "drone", "luster", "ingredient"],
+      "answer": 0,
+      "explanation": "An oration is a public speech for a formal occasion."
+    },
+    {
+      "id": 61,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'cross, complaining, irritable, contrary'?",
+      "options": ["peevish", "animated", "literate", "unique"],
+      "answer": 0,
+      "explanation": "Peevish means cross, complaining, or irritable."
+    },
+    {
+      "id": 62,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to burn slightly; a burn at the ends or edges'?",
+      "options": ["singe", "seethe", "brood", "loom"],
+      "answer": 0,
+      "explanation": "Singe means to burn slightly."
+    },
+    {
+      "id": 63,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'one of a kind; unequaled; unusual'?",
+      "options": ["unique", "upright", "literate", "peevish"],
+      "answer": 0,
+      "explanation": "Unique means one of a kind."
+    },
+    {
+      "id": 64,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to establish the truth or accuracy of; confirm'?",
+      "options": ["verify", "seethe", "singe", "brood"],
+      "answer": 0,
+      "explanation": "Verify means to establish the truth or accuracy of."
+    },
+    {
+      "id": 65,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word means 'to have a strong and earnest desire'?",
+      "options": ["yearn", "brood", "loom", "singe"],
+      "answer": 0,
+      "explanation": "Yearn means to have a strong and earnest desire."
+    },
+
+    {
+      "id": 66,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ student sat in the back of the room, never participating.'",
+      "options": ["drone", "oration", "luster", "ingredient"],
+      "answer": 0,
+      "explanation": "A drone is a loafer or idler."
+    },
+    {
+      "id": 67,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'After the long hike, I began to _____ for a cold drink and a warm bed.'",
+      "options": ["yearn", "brood", "loom", "singe"],
+      "answer": 0,
+      "explanation": "Yearn means to have a strong desire."
+    },
+    {
+      "id": 68,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher was _____ with anger when she saw the damaged desks.'",
+      "options": ["seething", "peevish", "unique", "literate"],
+      "answer": 0,
+      "explanation": "Seethe means to boil or foam; to be excited or disturbed."
+    },
+    {
+      "id": 69,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Please _____ that all the windows are closed before you leave.'",
+      "options": ["verify", "singe", "brood", "loom"],
+      "answer": 0,
+      "explanation": "Verify means to confirm the truth or accuracy of."
+    },
+    {
+      "id": 70,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The box contained a _____ collection of old photos and letters.'",
+      "options": ["miscellaneous", "peevish", "unique", "animated"],
+      "answer": 0,
+      "explanation": "Miscellaneous means mixed or of different kinds."
+    },
+    {
+      "id": 71,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The hungry toddler became _____ and threw his spoon on the floor.'",
+      "options": ["peevish", "literate", "animated", "unique"],
+      "answer": 0,
+      "explanation": "Peevish means cross, complaining, or irritable."
+    },
+    {
+      "id": 72,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'It is important to be _____ so you can understand instructions and safety warnings.'",
+      "options": ["literate", "peevish", "animated", "upright"],
+      "answer": 0,
+      "explanation": "Literate means able to read and write."
+    },
+    {
+      "id": 73,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The deadline began to _____ closer, and the team worked faster.'",
+      "options": ["loom", "singe", "brood", "yearn"],
+      "answer": 0,
+      "explanation": "Loom means to come into view or appear in exaggerated form."
+    },
+    {
+      "id": 74,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She likes to _____ over her mistakes, which keeps her awake at night.'",
+      "options": ["brood", "singe", "loom", "verify"],
+      "answer": 0,
+      "explanation": "Brood means to think over in a worried, unhappy way."
+    },
+    {
+      "id": 75,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'On special occasions, it is fine to _____ in a sweet treat.'",
+      "options": ["indulge", "goad", "yearn", "verify"],
+      "answer": 0,
+      "explanation": "Indulge means to give in to a wish or desire."
+    },
+    {
+      "id": 76,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The president delivered an _____ at the ceremony.'",
+      "options": ["oration", "ingredient", "luster", "drone"],
+      "answer": 0,
+      "explanation": "An oration is a formal public speech."
+    },
+    {
+      "id": 77,
+      "unit": "Unit 3",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The polished silver had a beautiful _____.'",
+      "options": ["luster", "oration", "ingredient", "drone"],
+      "answer": 0,
+      "explanation": "Luster is the quality of giving off light; brightness or shine."
+    },
+
+    {
+      "id": 78,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'animated'?",
+      "options": ["dull", "lively", "energetic", "vigorous"],
+      "answer": 0,
+      "explanation": "Animated means lively; dull is the opposite."
+    },
+    {
+      "id": 79,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'unique'?",
+      "options": ["ordinary", "unparalleled", "distinctive", "rare"],
+      "answer": 0,
+      "explanation": "Unique means one of a kind; ordinary is the opposite."
+    },
+    {
+      "id": 80,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'goad'?",
+      "options": ["curb", "spur", "prod", "incite"],
+      "answer": 0,
+      "explanation": "Goad means to urge on; curb means to restrain."
+    },
+    {
+      "id": 81,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'literate'?",
+      "options": ["illiterate", "educated", "trained", "learned"],
+      "answer": 0,
+      "explanation": "Literate means able to read and write; illiterate is the opposite."
+    },
+    {
+      "id": 82,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'culminate'?",
+      "options": ["conclude", "begin", "initiate", "start"],
+      "answer": 0,
+      "explanation": "Culminate means to reach a high point or conclude."
+    },
+    {
+      "id": 83,
+      "unit": "Unit 3",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'peevish'?",
+      "options": ["crabby", "agreeable", "amiable", "pleasant"],
+      "answer": 0,
+      "explanation": "Peevish means irritable; crabby is a synonym."
+    },
+
+    {
+      "id": 84,
+      "unit": "Unit 1",
+      "type": "true_false",
+      "question": "True or False: 'Interminable' means brief and short.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Interminable means endless, so long as to seem endless."
+    },
+    {
+      "id": 85,
+      "unit": "Unit 1",
+      "type": "true_false",
+      "question": "True or False: 'Adjacent' means far away and distant.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Adjacent means near or next to."
+    },
+    {
+      "id": 86,
+      "unit": "Unit 2",
+      "type": "true_false",
+      "question": "True or False: 'Unscathed' means unharmed or not injured.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Unscathed means unharmed."
+    },
+    {
+      "id": 87,
+      "unit": "Unit 2",
+      "type": "true_false",
+      "question": "True or False: 'Customary' means strange and unusual.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Customary means usual, expected, or routine."
+    },
+    {
+      "id": 88,
+      "unit": "Unit 3",
+      "type": "true_false",
+      "question": "True or False: 'Unique' means one of a kind or unequaled.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Unique means one of a kind."
+    },
+    {
+      "id": 89,
+      "unit": "Unit 3",
+      "type": "true_false",
+      "question": "True or False: 'Literate' means unable to read or write.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Literate means able to read and write."
+    },
+        {
+      "id": 90,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'a clown; a coarse, stupid person'?",
+      "options": ["buffoon", "hostile", "sodden", "virtual"],
+      "answer": 0,
+      "explanation": "A buffoon is a clown or a coarse, stupid person."
+    },
+    {
+      "id": 91,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to puzzle completely; confuse'?",
+      "options": ["bewilder", "mortify", "procure", "scurry"],
+      "answer": 0,
+      "explanation": "Bewilder means to puzzle completely or confuse."
+    },
+    {
+      "id": 92,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'a joining together for some common purpose'?",
+      "options": ["alliance", "buffoon", "void", "wince"],
+      "answer": 0,
+      "explanation": "An alliance is a joining together for a common purpose."
+    },
+    {
+      "id": 93,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'easily set on fire; easily angered or aroused'?",
+      "options": ["inflammable", "fruitless", "orthodox", "wayward"],
+      "answer": 0,
+      "explanation": "Inflammable means easily set on fire or easily angered."
+    },
+    {
+      "id": 94,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'unfriendly; unfavorable; warlike, aggressive'?",
+      "options": ["hostile", "virtual", "spirited", "sodden"],
+      "answer": 0,
+      "explanation": "Hostile means unfriendly, unfavorable, or warlike."
+    },
+    {
+      "id": 95,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to discourage'?",
+      "options": ["dishearten", "mortify", "procure", "scurry"],
+      "answer": 0,
+      "explanation": "Dishearten means to discourage."
+    },
+    {
+      "id": 96,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'arousing argument, dispute, or disagreement'?",
+      "options": ["controversial", "orthodox", "fruitless", "malignant"],
+      "answer": 0,
+      "explanation": "Controversial means arousing argument or disagreement."
+    },
+    {
+      "id": 97,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'deadly, extremely harmful, evil; spiteful, malicious'?",
+      "options": ["malignant", "sodden", "hostile", "virtual"],
+      "answer": 0,
+      "explanation": "Malignant means deadly, extremely harmful, or evil."
+    },
+    {
+      "id": 98,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'soaked with liquid or moisture; expressionless, dull'?",
+      "options": ["sodden", "spirited", "inflammable", "wayward"],
+      "answer": 0,
+      "explanation": "Sodden means soaked with liquid or moisture."
+    },
+    {
+      "id": 99,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to hurt someone's feelings deeply; cause embarrassment or humiliation'?",
+      "options": ["mortify", "inflict", "scurry", "wince"],
+      "answer": 0,
+      "explanation": "Mortify means to hurt someone's feelings deeply or cause embarrassment."
+    },
+    {
+      "id": 100,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'in agreement with established or generally accepted beliefs'?",
+      "options": ["orthodox", "controversial", "wayward", "virtual"],
+      "answer": 0,
+      "explanation": "Orthodox means in agreement with established beliefs or traditional."
+    },
+    {
+      "id": 101,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to obtain through special effort; to bring about'?",
+      "options": ["procure", "inflict", "bewilder", "dishearten"],
+      "answer": 0,
+      "explanation": "Procure means to obtain through special effort."
+    },
+    {
+      "id": 102,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to run quickly, scamper, hurry'?",
+      "options": ["scurry", "wince", "mortify", "procure"],
+      "answer": 0,
+      "explanation": "Scurry means to run quickly or scamper."
+    },
+    {
+      "id": 103,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'not producing the desired results; unsuccessful'?",
+      "options": ["fruitless", "spirited", "hostile", "inflammable"],
+      "answer": 0,
+      "explanation": "Fruitless means not producing desired results or unsuccessful."
+    },
+    {
+      "id": 104,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'full of life and vigor; courageous'?",
+      "options": ["spirited", "sodden", "malignant", "virtual"],
+      "answer": 0,
+      "explanation": "Spirited means full of life and vigor or courageous."
+    },
+    {
+      "id": 105,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'having a certain force or effect in fact but not in name'?",
+      "options": ["virtual", "orthodox", "void", "wayward"],
+      "answer": 0,
+      "explanation": "Virtual means having a certain force or effect in fact but not in name."
+    },
+    {
+      "id": 106,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'completely empty; having no legal force or effect'?",
+      "options": ["void", "sodden", "spirited", "fruitless"],
+      "answer": 0,
+      "explanation": "Void means completely empty or having no legal force."
+    },
+    {
+      "id": 107,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'disobedient, willful; unpredictable, capricious'?",
+      "options": ["wayward", "orthodox", "virtual", "controversial"],
+      "answer": 0,
+      "explanation": "Wayward means disobedient, willful, or unpredictable."
+    },
+    {
+      "id": 108,
+      "unit": "Unit 4",
+      "type": "multiple_choice",
+      "question": "Which word means 'to draw back suddenly as if in fear or pain'?",
+      "options": ["wince", "scurry", "procure", "inflict"],
+      "answer": 0,
+      "explanation": "Wince means to draw back suddenly as if in fear or pain."
+    },
+    {
+      "id": 109,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ was easily tricked into giving away his password.'",
+      "options": ["dupe", "buffoon", "hostile", "void"],
+      "answer": 0,
+      "explanation": "A dupe is a person easily tricked or deceived."
+    },
+    {
+      "id": 110,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The comedian acted like a _____ on stage, making silly faces.'",
+      "options": ["buffoon", "bewilder", "virtual", "sodden"],
+      "answer": 0,
+      "explanation": "A buffoon is a clown or coarse, stupid person."
+    },
+    {
+      "id": 111,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two countries formed an _____ to protect each other.'",
+      "options": ["alliance", "ordeal", "incentive", "paradox"],
+      "answer": 0,
+      "explanation": "An alliance is a joining together for a common purpose."
+    },
+    {
+      "id": 112,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ fire spread quickly through the dry grass.'",
+      "options": ["inflammable", "fruitless", "orthodox", "wayward"],
+      "answer": 0,
+      "explanation": "Inflammable means easily set on fire."
+    },
+    {
+      "id": 113,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ tumor was removed before it could spread.'",
+      "options": ["malignant", "sodden", "spirited", "virtual"],
+      "answer": 0,
+      "explanation": "Malignant means deadly or extremely harmful."
+    },
+    {
+      "id": 114,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'His _____ behavior made it hard for anyone to trust him.'",
+      "options": ["wayward", "orthodox", "controversial", "fruitless"],
+      "answer": 0,
+      "explanation": "Wayward means disobedient, willful, or unpredictable."
+    },
+    {
+      "id": 115,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'After the rain, the field was _____ and muddy.'",
+      "options": ["sodden", "spirited", "virtual", "hostile"],
+      "answer": 0,
+      "explanation": "Sodden means soaked with liquid or moisture."
+    },
+    {
+      "id": 116,
+      "unit": "Unit 4",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The team's efforts were _____ because they lost every game.'",
+      "options": ["fruitless", "spirited", "inflammable", "orthodox"],
+      "answer": 0,
+      "explanation": "Fruitless means not producing desired results or unsuccessful."
+    },
+    {
+      "id": 117,
+      "unit": "Unit 4",
+      "type": "true_false",
+      "question": "True or False: 'Hostile' means friendly and welcoming.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Hostile means unfriendly or warlike."
+    },
+    {
+      "id": 118,
+      "unit": "Unit 4",
+      "type": "true_false",
+      "question": "True or False: 'Procure' means to obtain through special effort.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Procure means to obtain through special effort."
+    },
+
+    {
+      "id": 119,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'a person or thing that tamps something down'?",
+      "options": ["tamper", "tactful", "entreat", "fickle"],
+      "answer": 0,
+      "explanation": "A tamper is a person or thing that tamps something down."
+    },
+    {
+      "id": 120,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'dirty, filthy, or grimy'?",
+      "options": ["grimy", "radiant", "rural", "ultimate"],
+      "answer": 0,
+      "explanation": "Grimy means dirty, filthy, or covered with grime."
+    },
+    {
+      "id": 121,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'to ask someone earnestly or anxiously to do something'?",
+      "options": ["entreat", "tamper", "consolidate", "dominate"],
+      "answer": 0,
+      "explanation": "Entreat means to ask earnestly or anxiously."
+    },
+    {
+      "id": 122,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'changing frequently, especially in loyalties or interests'?",
+      "options": ["fickle", "substantial", "ultimate", "tactful"],
+      "answer": 0,
+      "explanation": "Fickle means changing frequently in loyalties or interests."
+    },
+    {
+      "id": 123,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'the best achievable or imaginable of its kind'?",
+      "options": ["ultimate", "fugitive", "anecdote", "iota"],
+      "answer": 0,
+      "explanation": "Ultimate means the best achievable or imaginable of its kind."
+    },
+    {
+      "id": 124,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'to wound by scratching and tearing'?",
+      "options": ["maul", "entreat", "consolidate", "dominate"],
+      "answer": 0,
+      "explanation": "Maul means to wound by scratching and tearing."
+    },
+    {
+      "id": 125,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'made in exact imitation with the intention to deceive'?",
+      "options": ["counterfeit", "radiant", "rural", "substantial"],
+      "answer": 0,
+      "explanation": "Counterfeit means made in exact imitation with intent to deceive."
+    },
+    {
+      "id": 126,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'of considerable importance, size, or worth'?",
+      "options": ["substantial", "fickle", "tactful", "ultimate"],
+      "answer": 0,
+      "explanation": "Substantial means of considerable importance, size, or worth."
+    },
+    {
+      "id": 127,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'a person who has escaped or is in hiding'?",
+      "options": ["fugitive", "anecdote", "iota", "tamper"],
+      "answer": 0,
+      "explanation": "A fugitive is a person who has escaped or is in hiding."
+    },
+    {
+      "id": 128,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'careless, foolish, impolite, or rude'?",
+      "options": ["tactless", "tactful", "radiant", "rural"],
+      "answer": 0,
+      "explanation": "Tactless means careless, foolish, impolite, or rude."
+    },
+    {
+      "id": 129,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'an extremely small amount'?",
+      "options": ["iota", "anecdote", "uncertainty", "potential"],
+      "answer": 0,
+      "explanation": "An iota is an extremely small amount."
+    },
+    {
+      "id": 130,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'having or showing the capacity to develop into something in the future'?",
+      "options": ["potential", "fallible", "radiant", "rural"],
+      "answer": 0,
+      "explanation": "Potential means having the capacity to develop into something in the future."
+    },
+    {
+      "id": 131,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'faulty, frail, imperfect, or untrustworthy'?",
+      "options": ["fallible", "tactful", "ultimate", "substantial"],
+      "answer": 0,
+      "explanation": "Fallible means faulty, frail, imperfect, or untrustworthy."
+    },
+    {
+      "id": 132,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'a short amusing or interesting story about a real incident'?",
+      "options": ["anecdote", "iota", "fugitive", "uncertainty"],
+      "answer": 0,
+      "explanation": "An anecdote is a short amusing or interesting story about a real incident."
+    },
+    {
+      "id": 133,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'brilliant, glowing, beaming, or gleaming'?",
+      "options": ["radiant", "rural", "grimy", "counterfeit"],
+      "answer": 0,
+      "explanation": "Radiant means brilliant, glowing, beaming, or gleaming."
+    },
+    {
+      "id": 134,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'relating to the countryside or agriculture'?",
+      "options": ["rural", "radiant", "ultimate", "fickle"],
+      "answer": 0,
+      "explanation": "Rural means relating to the countryside or agriculture."
+    },
+    {
+      "id": 135,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make something physically stronger or more solid'?",
+      "options": ["consolidate", "dominate", "maul", "entreat"],
+      "answer": 0,
+      "explanation": "Consolidate means to make something physically stronger or more solid."
+    },
+    {
+      "id": 136,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'ambiguity, ambivalence, anxiety, or concern'?",
+      "options": ["uncertainty", "potential", "anecdote", "iota"],
+      "answer": 0,
+      "explanation": "Uncertainty means ambiguity, ambivalence, anxiety, or concern."
+    },
+    {
+      "id": 137,
+      "unit": "Unit 5",
+      "type": "multiple_choice",
+      "question": "Which word means 'to have a commanding influence on; exercise control over'?",
+      "options": ["dominate", "consolidate", "maul", "tamper"],
+      "answer": 0,
+      "explanation": "Dominate means to have a commanding influence on or exercise control over."
+    },
+    {
+      "id": 138,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ puppy tracked mud all over the clean floor.'",
+      "options": ["grimy", "radiant", "rural", "ultimate"],
+      "answer": 0,
+      "explanation": "Grimy means dirty or filthy."
+    },
+    {
+      "id": 139,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She made a _____ decision to change her major three times in one semester.'",
+      "options": ["fickle", "substantial", "tactful", "fallible"],
+      "answer": 0,
+      "explanation": "Fickle means changing frequently in loyalties or interests."
+    },
+    {
+      "id": 140,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The police arrested the _____ who had escaped from prison.'",
+      "options": ["fugitive", "anecdote", "iota", "tamper"],
+      "answer": 0,
+      "explanation": "A fugitive is a person who has escaped or is in hiding."
+    },
+    {
+      "id": 141,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The sun was so _____ that we had to wear sunglasses.'",
+      "options": ["radiant", "rural", "grimy", "counterfeit"],
+      "answer": 0,
+      "explanation": "Radiant means brilliant or glowing."
+    },
+    {
+      "id": 142,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The small town had a quiet, _____ atmosphere.'",
+      "options": ["rural", "radiant", "ultimate", "fickle"],
+      "answer": 0,
+      "explanation": "Rural means relating to the countryside."
+    },
+    {
+      "id": 143,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'He did not have a single _____ of evidence to support his claim.'",
+      "options": ["iota", "anecdote", "fugitive", "uncertainty"],
+      "answer": 0,
+      "explanation": "An iota is an extremely small amount."
+    },
+    {
+      "id": 144,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher told an amusing _____ about her first day of school.'",
+      "options": ["anecdote", "iota", "potential", "fugitive"],
+      "answer": 0,
+      "explanation": "An anecdote is a short amusing story about a real incident."
+    },
+    {
+      "id": 145,
+      "unit": "Unit 5",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The company tried to _____ the market by buying its competitors.'",
+      "options": ["dominate", "consolidate", "maul", "entreat"],
+      "answer": 0,
+      "explanation": "Dominate means to have a commanding influence on or exercise control over."
+    },
+    {
+      "id": 146,
+      "unit": "Unit 5",
+      "type": "true_false",
+      "question": "True or False: 'Tactful' means doing whatever you can to avoid hurting the feelings of others.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Tactful means showing skill in handling people without giving offense."
+    },
+    {
+      "id": 147,
+      "unit": "Unit 5",
+      "type": "true_false",
+      "question": "True or False: 'Counterfeit' means genuine and authentic.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Counterfeit means made in exact imitation with intent to deceive."
+    },
+
+    {
+      "id": 148,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'unnamed, without the name of the person involved; unknown'?",
+      "options": ["anonymous", "dynamic", "grim", "quaint"],
+      "answer": 0,
+      "explanation": "Anonymous means unnamed or unknown."
+    },
+    {
+      "id": 149,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to nibble, graze; to read casually; to window-shop'?",
+      "options": ["browse", "dupe", "eradicate", "scrimp"],
+      "answer": 0,
+      "explanation": "Browse means to nibble, graze, read casually, or window-shop."
+    },
+    {
+      "id": 150,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'a person easily tricked or deceived'?",
+      "options": ["dupe", "browse", "makeshift", "preview"],
+      "answer": 0,
+      "explanation": "A dupe is a person easily tricked or deceived."
+    },
+    {
+      "id": 151,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'active, energetic, forceful'?",
+      "options": ["dynamic", "grim", "marginal", "pending"],
+      "answer": 0,
+      "explanation": "Dynamic means active, energetic, or forceful."
+    },
+    {
+      "id": 152,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to root out, get rid of, destroy completely'?",
+      "options": ["eradicate", "frustrate", "prescribe", "prominent"],
+      "answer": 0,
+      "explanation": "Eradicate means to root out or destroy completely."
+    },
+    {
+      "id": 153,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to prevent from accomplishing a purpose; to cause discouragement'?",
+      "options": ["frustrate", "eradicate", "prescribe", "prominent"],
+      "answer": 0,
+      "explanation": "Frustrate means to prevent from accomplishing a purpose or cause discouragement."
+    },
+    {
+      "id": 154,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'stern, merciless; fierce, savage, cruel'?",
+      "options": ["grim", "quaint", "dynamic", "marginal"],
+      "answer": 0,
+      "explanation": "Grim means stern, merciless, fierce, or cruel."
+    },
+    {
+      "id": 155,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'not capable of being copied or imitated'?",
+      "options": ["inimitable", "anonymous", "makeshift", "pending"],
+      "answer": 0,
+      "explanation": "Inimitable means not capable of being copied or imitated."
+    },
+    {
+      "id": 156,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'a temporary substitute for something else'?",
+      "options": ["makeshift", "preview", "dupe", "browse"],
+      "answer": 0,
+      "explanation": "A makeshift is a temporary substitute."
+    },
+    {
+      "id": 157,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'in, at, or near the edge or margin; only barely good or important'?",
+      "options": ["marginal", "prominent", "pending", "quaint"],
+      "answer": 0,
+      "explanation": "Marginal means in, at, or near the edge or margin."
+    },
+    {
+      "id": 158,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'waiting to be settled; until'?",
+      "options": ["pending", "preview", "prescribe", "reluctant"],
+      "answer": 0,
+      "explanation": "Pending means waiting to be settled."
+    },
+    {
+      "id": 159,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to order as a rule or course to be followed; order for medical purpose'?",
+      "options": ["prescribe", "frustrate", "eradicate", "scrimp"],
+      "answer": 0,
+      "explanation": "Prescribe means to order as a rule or course to be followed."
+    },
+    {
+      "id": 160,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'something seen in advance; to view beforehand'?",
+      "options": ["preview", "pending", "makeshift", "marginal"],
+      "answer": 0,
+      "explanation": "A preview is something seen in advance."
+    },
+    {
+      "id": 161,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'standing out so as to be easily seen; important, well-known'?",
+      "options": ["prominent", "marginal", "quaint", "anonymous"],
+      "answer": 0,
+      "explanation": "Prominent means standing out or important and well-known."
+    },
+    {
+      "id": 162,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'odd or old-fashioned in a pleasing way'?",
+      "options": ["quaint", "grim", "dynamic", "inimitable"],
+      "answer": 0,
+      "explanation": "Quaint means odd or old-fashioned in a pleasing way."
+    },
+    {
+      "id": 163,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'unwilling, holding back'?",
+      "options": ["reluctant", "prominent", "pending", "marginal"],
+      "answer": 0,
+      "explanation": "Reluctant means unwilling or holding back."
+    },
+    {
+      "id": 164,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to handle very economically or slightly; to supply in a small or scanty way'?",
+      "options": ["scrimp", "prescribe", "browse", "dupe"],
+      "answer": 0,
+      "explanation": "Scrimp means to handle very economically or supply in a scanty way."
+    },
+    {
+      "id": 165,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'to trap, catch; a trap or entanglement'?",
+      "options": ["snare", "preview", "makeshift", "pending"],
+      "answer": 0,
+      "explanation": "Snare means to trap or catch."
+    },
+    {
+      "id": 166,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'greatest, highest, farthest; the extreme limit'?",
+      "options": ["utmost", "marginal", "grim", "quaint"],
+      "answer": 0,
+      "explanation": "Utmost means greatest, highest, or farthest."
+    },
+    {
+      "id": 167,
+      "unit": "Unit 6",
+      "type": "multiple_choice",
+      "question": "Which word means 'punishment in return for an injury or a wrong'?",
+      "options": ["vengeance", "preview", "scrimp", "snare"],
+      "answer": 0,
+      "explanation": "Vengeance means punishment in return for an injury or wrong."
+    },
+    {
+      "id": 168,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ donor gave a million dollars to the school without revealing her name.'",
+      "options": ["anonymous", "dynamic", "grim", "quaint"],
+      "answer": 0,
+      "explanation": "Anonymous means unnamed or unknown."
+    },
+    {
+      "id": 169,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ puppy chewed up three pairs of shoes.'",
+      "options": ["dynamic", "grim", "marginal", "pending"],
+      "answer": 0,
+      "explanation": "Dynamic means active, energetic, or forceful."
+    },
+    {
+      "id": 170,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The scientists hope to _____ the disease within ten years.'",
+      "options": ["eradicate", "frustrate", "prescribe", "browse"],
+      "answer": 0,
+      "explanation": "Eradicate means to root out or destroy completely."
+    },
+    {
+      "id": 171,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The doctor will _____ a new medicine for your cough.'",
+      "options": ["prescribe", "frustrate", "eradicate", "scrimp"],
+      "answer": 0,
+      "explanation": "Prescribe means to order for a medical purpose."
+    },
+    {
+      "id": 172,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ old cottage had crooked windows and a flower garden.'",
+      "options": ["quaint", "grim", "dynamic", "inimitable"],
+      "answer": 0,
+      "explanation": "Quaint means odd or old-fashioned in a pleasing way."
+    },
+    {
+      "id": 173,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She was _____ to lend her car to anyone.'",
+      "options": ["reluctant", "prominent", "pending", "marginal"],
+      "answer": 0,
+      "explanation": "Reluctant means unwilling or holding back."
+    },
+    {
+      "id": 174,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The detective set a _____ to catch the thief.'",
+      "options": ["snare", "preview", "makeshift", "pending"],
+      "answer": 0,
+      "explanation": "A snare is a trap or entanglement."
+    },
+    {
+      "id": 175,
+      "unit": "Unit 6",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'He was determined to seek _____ for the wrong done to his family.'",
+      "options": ["vengeance", "preview", "scrimp", "browse"],
+      "answer": 0,
+      "explanation": "Vengeance means punishment in return for an injury or wrong."
+    },
+    {
+      "id": 176,
+      "unit": "Unit 6",
+      "type": "true_false",
+      "question": "True or False: 'Inimitable' means easily copied or imitated.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Inimitable means not capable of being copied or imitated."
+    },
+    {
+      "id": 177,
+      "unit": "Unit 6",
+      "type": "true_false",
+      "question": "True or False: 'Makeshift' means permanent and durable.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Makeshift means temporary or crude."
+    },
+
+    {
+      "id": 178,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'faulty, imperfect, not as it should be'?",
+      "options": ["amiss", "brawl", "detest", "domestic"],
+      "answer": 0,
+      "explanation": "Amiss means faulty, imperfect, or not as it should be."
+    },
+    {
+      "id": 179,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'a noisy quarrel or fight'?",
+      "options": ["brawl", "amiss", "flaw", "fledgling"],
+      "answer": 0,
+      "explanation": "A brawl is a noisy quarrel or fight."
+    },
+    {
+      "id": 180,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'to hate, dislike very much, loathe'?",
+      "options": ["detest", "nurture", "presume", "prior"],
+      "answer": 0,
+      "explanation": "Detest means to hate or dislike very much."
+    },
+    {
+      "id": 181,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'native to a country, not foreign; relating to a household'?",
+      "options": ["domestic", "flagrant", "flaw", "fledgling"],
+      "answer": 0,
+      "explanation": "Domestic means native to a country or relating to a household."
+    },
+    {
+      "id": 182,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'extremely bad, glaring; scandalous, notorious'?",
+      "options": ["flagrant", "amiss", "flaw", "fluster"],
+      "answer": 0,
+      "explanation": "Flagrant means extremely bad, glaring, or scandalous."
+    },
+    {
+      "id": 183,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'a slight fault, defect, crack'?",
+      "options": ["flaw", "brawl", "fledgling", "foremost"],
+      "answer": 0,
+      "explanation": "A flaw is a slight fault, defect, or crack."
+    },
+    {
+      "id": 184,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'an inexperienced person, beginner; a young bird about to leave the nest'?",
+      "options": ["fledgling", "fluster", "foremost", "momentum"],
+      "answer": 0,
+      "explanation": "A fledgling is an inexperienced person or a young bird about to leave the nest."
+    },
+    {
+      "id": 185,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make or become confused, agitated, or nervous'?",
+      "options": ["fluster", "nurture", "presume", "prior"],
+      "answer": 0,
+      "explanation": "Fluster means to make or become confused, agitated, or nervous."
+    },
+    {
+      "id": 186,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'chief, most important, primary'?",
+      "options": ["foremost", "fledgling", "flaw", "domestic"],
+      "answer": 0,
+      "explanation": "Foremost means chief, most important, or primary."
+    },
+    {
+      "id": 187,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'the force or speed with which something moves'?",
+      "options": ["momentum", "salvo", "wrath", "perjury"],
+      "answer": 0,
+      "explanation": "Momentum is the force or speed with which something moves."
+    },
+    {
+      "id": 188,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'striking, remarkable; a person who is well known or distinguished'?",
+      "options": ["notable", "proficient", "vigilant", "prior"],
+      "answer": 0,
+      "explanation": "Notable means striking, remarkable, or a well-known person."
+    },
+    {
+      "id": 189,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'to bring up, care for, train, nourish'?",
+      "options": ["nurture", "presume", "detest", "fluster"],
+      "answer": 0,
+      "explanation": "Nurture means to bring up, care for, train, or nourish."
+    },
+    {
+      "id": 190,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'a self-contradictory statement that on closer examination proves true'?",
+      "options": ["paradox", "perjury", "salvo", "wrath"],
+      "answer": 0,
+      "explanation": "A paradox is a self-contradictory statement that proves true on closer examination."
+    },
+    {
+      "id": 191,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'the act of swearing to a lie'?",
+      "options": ["perjury", "paradox", "salvo", "wrath"],
+      "answer": 0,
+      "explanation": "Perjury is the act of swearing to a lie."
+    },
+    {
+      "id": 192,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'to take for granted, assume or suppose; to dare, take liberties'?",
+      "options": ["presume", "nurture", "detest", "fluster"],
+      "answer": 0,
+      "explanation": "Presume means to take for granted, assume, or suppose."
+    },
+    {
+      "id": 193,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'earlier, former'?",
+      "options": ["prior", "foremost", "notable", "proficient"],
+      "answer": 0,
+      "explanation": "Prior means earlier or former."
+    },
+    {
+      "id": 194,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'skilled, expert, or capable in any field or activity'?",
+      "options": ["proficient", "vigilant", "prior", "notable"],
+      "answer": 0,
+      "explanation": "Proficient means skilled, expert, or capable in any field."
+    },
+    {
+      "id": 195,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'a burst of gunfire or cannon shot; a sudden burst of anything'?",
+      "options": ["salvo", "wrath", "perjury", "paradox"],
+      "answer": 0,
+      "explanation": "A salvo is a burst of gunfire or a sudden burst of anything."
+    },
+    {
+      "id": 196,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'wide-awake, alert, watchful'?",
+      "options": ["vigilant", "proficient", "prior", "notable"],
+      "answer": 0,
+      "explanation": "Vigilant means wide-awake, alert, or watchful."
+    },
+    {
+      "id": 197,
+      "unit": "Unit 7",
+      "type": "multiple_choice",
+      "question": "Which word means 'intense anger'?",
+      "options": ["wrath", "salvo", "perjury", "paradox"],
+      "answer": 0,
+      "explanation": "Wrath means intense anger."
+    },
+    {
+      "id": 198,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Something seemed _____ when the lights flickered and the door creaked.'",
+      "options": ["amiss", "flagrant", "domestic", "fledgling"],
+      "answer": 0,
+      "explanation": "Amiss means faulty or not as it should be."
+    },
+    {
+      "id": 199,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two fans got into a _____ outside the stadium.'",
+      "options": ["brawl", "flaw", "salvo", "perjury"],
+      "answer": 0,
+      "explanation": "A brawl is a noisy quarrel or fight."
+    },
+    {
+      "id": 200,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She absolutely _____ having to wake up early on Saturdays.'",
+      "options": ["detests", "nurtures", "presumes", "flusters"],
+      "answer": 0,
+      "explanation": "Detest means to hate or dislike very much."
+    },
+    {
+      "id": 201,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ dog was small and inexperienced, still learning to herd sheep.'",
+      "options": ["fledgling", "fluster", "foremost", "momentum"],
+      "answer": 0,
+      "explanation": "A fledgling is an inexperienced person or beginner."
+    },
+    {
+      "id": 202,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher's voice was _____ in the noisy cafeteria.'",
+      "options": ["foremost", "fledgling", "flaw", "domestic"],
+      "answer": 0,
+      "explanation": "Foremost means chief, most important, or primary."
+    },
+    {
+      "id": 203,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ of the storm made it impossible to walk outside.'",
+      "options": ["momentum", "salvo", "wrath", "perjury"],
+      "answer": 0,
+      "explanation": "Momentum is the force or speed with which something moves."
+    },
+    {
+      "id": 204,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ scientist received a prestigious award for her research.'",
+      "options": ["notable", "proficient", "vigilant", "prior"],
+      "answer": 0,
+      "explanation": "Notable means striking, remarkable, or a well-known person."
+    },
+    {
+      "id": 205,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ witness testified falsely under oath.'",
+      "options": ["perjury", "paradox", "salvo", "wrath"],
+      "answer": 0,
+      "explanation": "Perjury is the act of swearing to a lie."
+    },
+    {
+      "id": 206,
+      "unit": "Unit 7",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The guard remained _____ throughout the entire night shift.'",
+      "options": ["vigilant", "proficient", "prior", "notable"],
+      "answer": 0,
+      "explanation": "Vigilant means wide-awake, alert, or watchful."
+    },
+    {
+      "id": 207,
+      "unit": "Unit 7",
+      "type": "true_false",
+      "question": "True or False: 'Flagrant' means petty or trifling.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Flagrant means extremely bad, glaring, or scandalous."
+    },
+    {
+      "id": 208,
+      "unit": "Unit 7",
+      "type": "true_false",
+      "question": "True or False: 'Proficient' means incompetent or unskilled.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Proficient means skilled, expert, or capable."
+    },
+
+    {
+      "id": 209,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'not usual, not typical, strange'?",
+      "options": ["abnormal", "capsize", "catastrophe", "decrease"],
+      "answer": 0,
+      "explanation": "Abnormal means not usual, not typical, or strange."
+    },
+    {
+      "id": 210,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to turn bottom side up, upset'?",
+      "options": ["capsize", "abnormal", "catastrophe", "decrease"],
+      "answer": 0,
+      "explanation": "Capsize means to turn bottom side up or upset."
+    },
+    {
+      "id": 211,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'a large-scale disaster, misfortune, or failure'?",
+      "options": ["catastrophe", "disputatious", "evict", "flourish"],
+      "answer": 0,
+      "explanation": "A catastrophe is a large-scale disaster, misfortune, or failure."
+    },
+    {
+      "id": 212,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to become or make less; a lessening'?",
+      "options": ["decrease", "capsize", "incentive", "legible"],
+      "answer": 0,
+      "explanation": "Decrease means to become or make less."
+    },
+    {
+      "id": 213,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'inclined to argue or debate; provoking debate'?",
+      "options": ["disputatious", "prudent", "quench", "remnant"],
+      "answer": 0,
+      "explanation": "Disputatious means inclined to argue or debate."
+    },
+    {
+      "id": 214,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to force out from a property, eject'?",
+      "options": ["evict", "flourish", "ordain", "outstrip"],
+      "answer": 0,
+      "explanation": "Evict means to force out from a property or eject."
+    },
+    {
+      "id": 215,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to grow, thrive, be prosperous; to wave in the air'?",
+      "options": ["flourish", "evict", "pervade", "swerve"],
+      "answer": 0,
+      "explanation": "Flourish means to grow, thrive, or be prosperous."
+    },
+    {
+      "id": 216,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'a reason for doing something; something that stimulates action'?",
+      "options": ["incentive", "insubordinate", "legible", "nub"],
+      "answer": 0,
+      "explanation": "An incentive is a reason for doing something or something that stimulates action."
+    },
+    {
+      "id": 217,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'disobedient, rebellious'?",
+      "options": ["insubordinate", "prudent", "quench", "remnant"],
+      "answer": 0,
+      "explanation": "Insubordinate means disobedient or rebellious."
+    },
+    {
+      "id": 218,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'easily read'?",
+      "options": ["legible", "nub", "onslaught", "ordain"],
+      "answer": 0,
+      "explanation": "Legible means easily read."
+    },
+    {
+      "id": 219,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'the central point or heart of a matter; a knob'?",
+      "options": ["nub", "onslaught", "ordain", "outstrip"],
+      "answer": 0,
+      "explanation": "The nub is the central point or heart of a matter."
+    },
+    {
+      "id": 220,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'a violent attack; a sudden rush of something'?",
+      "options": ["onslaught", "pervade", "prudent", "quench"],
+      "answer": 0,
+      "explanation": "An onslaught is a violent attack or sudden rush of something."
+    },
+    {
+      "id": 221,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to establish by law; to order or command; to appoint as a priest or minister'?",
+      "options": ["ordain", "outstrip", "pervade", "prudent"],
+      "answer": 0,
+      "explanation": "Ordain means to establish by law, order, or appoint as a priest or minister."
+    },
+    {
+      "id": 222,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to get ahead of, do better than, exceed'?",
+      "options": ["outstrip", "pervade", "prudent", "quench"],
+      "answer": 0,
+      "explanation": "Outstrip means to get ahead of, do better than, or exceed."
+    },
+    {
+      "id": 223,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to spread throughout'?",
+      "options": ["pervade", "prudent", "quench", "remnant"],
+      "answer": 0,
+      "explanation": "Pervade means to spread throughout."
+    },
+    {
+      "id": 224,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'cautious, careful, showing good sense'?",
+      "options": ["prudent", "quench", "remnant", "simultaneous"],
+      "answer": 0,
+      "explanation": "Prudent means cautious, careful, or showing good sense."
+    },
+    {
+      "id": 225,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to put out, extinguish, end'?",
+      "options": ["quench", "remnant", "simultaneous", "swerve"],
+      "answer": 0,
+      "explanation": "Quench means to put out, extinguish, or end."
+    },
+    {
+      "id": 226,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'a small part remaining behind'?",
+      "options": ["remnant", "simultaneous", "swerve", "abnormal"],
+      "answer": 0,
+      "explanation": "A remnant is a small part remaining behind."
+    },
+    {
+      "id": 227,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'happening or existing at the same time'?",
+      "options": ["simultaneous", "swerve", "abnormal", "capsize"],
+      "answer": 0,
+      "explanation": "Simultaneous means happening or existing at the same time."
+    },
+    {
+      "id": 228,
+      "unit": "Unit 8",
+      "type": "multiple_choice",
+      "question": "Which word means 'to turn aside sharply; a sharp or sudden turn'?",
+      "options": ["swerve", "abnormal", "capsize", "catastrophe"],
+      "answer": 0,
+      "explanation": "Swerve means to turn aside sharply or a sharp, sudden turn."
+    },
+    {
+      "id": 229,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ test results worried the doctor.'",
+      "options": ["abnormal", "capsize", "catastrophe", "decrease"],
+      "answer": 0,
+      "explanation": "Abnormal means not usual, not typical, or strange."
+    },
+    {
+      "id": 230,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The small boat began to _____ in the rough waves.'",
+      "options": ["capsize", "abnormal", "catastrophe", "decrease"],
+      "answer": 0,
+      "explanation": "Capsize means to turn bottom side up or upset."
+    },
+    {
+      "id": 231,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The hurricane was a _____ that destroyed entire neighborhoods.'",
+      "options": ["catastrophe", "disputatious", "evict", "flourish"],
+      "answer": 0,
+      "explanation": "A catastrophe is a large-scale disaster, misfortune, or failure."
+    },
+    {
+      "id": 232,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The landlord threatened to _____ the tenants for not paying rent.'",
+      "options": ["evict", "flourish", "ordain", "outstrip"],
+      "answer": 0,
+      "explanation": "Evict means to force out from a property or eject."
+    },
+    {
+      "id": 233,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The plants began to _____ after we moved them into the sunlight.'",
+      "options": ["flourish", "evict", "pervade", "swerve"],
+      "answer": 0,
+      "explanation": "Flourish means to grow, thrive, or be prosperous."
+    },
+    {
+      "id": 234,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The company offered a cash _____ for employees who met their goals.'",
+      "options": ["incentive", "insubordinate", "legible", "nub"],
+      "answer": 0,
+      "explanation": "An incentive is a reason for doing something or something that stimulates action."
+    },
+    {
+      "id": 235,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ student refused to follow the teacher's instructions.'",
+      "options": ["insubordinate", "prudent", "quench", "remnant"],
+      "answer": 0,
+      "explanation": "Insubordinate means disobedient or rebellious."
+    },
+    {
+      "id": 236,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Her handwriting was so _____ that everyone could read it easily.'",
+      "options": ["legible", "nub", "onslaught", "ordain"],
+      "answer": 0,
+      "explanation": "Legible means easily read."
+    },
+    {
+      "id": 237,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ of the argument was about who should pay for the damage.'",
+      "options": ["nub", "onslaught", "ordain", "outstrip"],
+      "answer": 0,
+      "explanation": "The nub is the central point or heart of a matter."
+    },
+    {
+      "id": 238,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The army faced a fierce _____ at dawn.'",
+      "options": ["onslaught", "pervade", "prudent", "quench"],
+      "answer": 0,
+      "explanation": "An onslaught is a violent attack or sudden rush of something."
+    },
+    {
+      "id": 239,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'It was _____ to save money before making a big purchase.'",
+      "options": ["prudent", "quench", "remnant", "simultaneous"],
+      "answer": 0,
+      "explanation": "Prudent means cautious, careful, or showing good sense."
+    },
+    {
+      "id": 240,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The firefighters worked quickly to _____ the flames.'",
+      "options": ["quench", "remnant", "simultaneous", "swerve"],
+      "answer": 0,
+      "explanation": "Quench means to put out, extinguish, or end."
+    },
+    {
+      "id": 241,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Only a _____ of the original forest remains.'",
+      "options": ["remnant", "simultaneous", "swerve", "abnormal"],
+      "answer": 0,
+      "explanation": "A remnant is a small part remaining behind."
+    },
+    {
+      "id": 242,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two explosions were _____; they happened at exactly the same moment.'",
+      "options": ["simultaneous", "swerve", "abnormal", "capsize"],
+      "answer": 0,
+      "explanation": "Simultaneous means happening or existing at the same time."
+    },
+    {
+      "id": 243,
+      "unit": "Unit 8",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The driver had to _____ to avoid hitting the deer.'",
+      "options": ["swerve", "abnormal", "capsize", "catastrophe"],
+      "answer": 0,
+      "explanation": "Swerve means to turn aside sharply or a sharp, sudden turn."
+    },
+    {
+      "id": 244,
+      "unit": "Unit 8",
+      "type": "true_false",
+      "question": "True or False: 'Pervade' means to spread throughout.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Pervade means to spread throughout."
+    },
+    {
+      "id": 245,
+      "unit": "Unit 8",
+      "type": "true_false",
+      "question": "True or False: 'Prudent' means foolish or unwise.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Prudent means cautious, careful, or showing good sense."
+    },
+    {
+      "id": 246,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to speed up, cause to move faster'?",
+      "options": ["accelerate", "flounder", "persist", "parch"],
+      "answer": 0,
+      "explanation": "Accelerate means to speed up or bring about more quickly."
+    },
+    {
+      "id": 247,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'one who looks on or observes, a person present but not taking part'?",
+      "options": ["bystander", "canvass", "ordeal", "puny"],
+      "answer": 0,
+      "explanation": "A bystander is one who looks on or observes without taking part."
+    },
+    {
+      "id": 248,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'happening by chance or on an irregular basis; showing little concern; informal'?",
+      "options": ["casual", "downtrodden", "graphic", "melancholy"],
+      "answer": 0,
+      "explanation": "Casual means happening by chance or showing little concern."
+    },
+    {
+      "id": 249,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'treated unfairly and cruelly, oppressed'?",
+      "options": ["downtrodden", "casual", "entice", "vital"],
+      "answer": 0,
+      "explanation": "Downtrodden means treated unfairly and cruelly."
+    },
+    {
+      "id": 250,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to attract, tempt'?",
+      "options": ["entice", "erode", "persist", "stifle"],
+      "answer": 0,
+      "explanation": "Entice means to attract or tempt."
+    },
+    {
+      "id": 251,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to wear away gradually, eat away'?",
+      "options": ["erode", "parch", "flounder", "ratify"],
+      "answer": 0,
+      "explanation": "Erode means to wear away gradually."
+    },
+    {
+      "id": 252,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to thrash about in a clumsy or ineffective way'?",
+      "options": ["flounder", "accelerate", "persist", "canvass"],
+      "answer": 0,
+      "explanation": "Flounder means to thrash about in a clumsy or ineffective way."
+    },
+    {
+      "id": 253,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'lifelike, vivid; relating to the pictorial arts'?",
+      "options": ["graphic", "gruesome", "regal", "vital"],
+      "answer": 0,
+      "explanation": "Graphic means lifelike, vivid, or relating to pictorial arts."
+    },
+    {
+      "id": 254,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'horrible, revolting, ghastly'?",
+      "options": ["gruesome", "melancholy", "puny", "quibble"],
+      "answer": 0,
+      "explanation": "Gruesome means horrible, revolting, or ghastly."
+    },
+    {
+      "id": 255,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'sad, gloomy, unhappy'?",
+      "options": ["melancholy", "regal", "vital", "graphic"],
+      "answer": 0,
+      "explanation": "Melancholy means sad, gloomy, or unhappy."
+    },
+    {
+      "id": 256,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'a difficult or painful experience, a trial'?",
+      "options": ["ordeal", "bystander", "canvass", "quibble"],
+      "answer": 0,
+      "explanation": "An ordeal is a difficult or painful experience."
+    },
+    {
+      "id": 257,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make dry and thirsty; to shrivel with heat'?",
+      "options": ["parch", "erode", "stifle", "persist"],
+      "answer": 0,
+      "explanation": "Parch means to make dry and thirsty or shrivel with heat."
+    },
+    {
+      "id": 258,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to continue steadily in a course of action, refuse to stop'?",
+      "options": ["persist", "flounder", "entice", "accelerate"],
+      "answer": 0,
+      "explanation": "Persist means to continue steadily and refuse to stop."
+    },
+    {
+      "id": 259,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'of less than normal strength or size; of no importance'?",
+      "options": ["puny", "regal", "vital", "gruesome"],
+      "answer": 0,
+      "explanation": "Puny means of less than normal strength or size."
+    },
+    {
+      "id": 260,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'royal, kinglike; fit for a king'?",
+      "options": ["regal", "vital", "puny", "graphic"],
+      "answer": 0,
+      "explanation": "Regal means royal, kinglike, or fit for a king."
+    },
+    {
+      "id": 261,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to smother, prevent from breathing; to hold back or choke off'?",
+      "options": ["stifle", "parch", "erode", "entice"],
+      "answer": 0,
+      "explanation": "Stifle means to smother or hold back."
+    },
+    {
+      "id": 262,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'having life, living; necessary to life, essential'?",
+      "options": ["vital", "regal", "casual", "melancholy"],
+      "answer": 0,
+      "explanation": "Vital means having life or essential to life."
+    },
+    {
+      "id": 263,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The car began to _____ as it entered the highway.'",
+      "options": ["accelerate", "flounder", "persist", "parch"],
+      "answer": 0,
+      "explanation": "Accelerate means to speed up."
+    },
+    {
+      "id": 264,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ watched the accident from across the street.'",
+      "options": ["bystander", "canvass", "ordeal", "puny"],
+      "answer": 0,
+      "explanation": "A bystander is one who observes without taking part."
+    },
+    {
+      "id": 265,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ puppy was much smaller than its brothers and sisters.'",
+      "options": ["puny", "regal", "vital", "gruesome"],
+      "answer": 0,
+      "explanation": "Puny means of less than normal strength or size."
+    },
+    {
+      "id": 266,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The hikers were _____ after walking for hours without water.'",
+      "options": ["parched", "enticed", "stifled", "eroded"],
+      "answer": 0,
+      "explanation": "Parch means to make dry and thirsty."
+    },
+    {
+      "id": 267,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ scene in the movie made several viewers look away.'",
+      "options": ["gruesome", "melancholy", "regal", "vital"],
+      "answer": 0,
+      "explanation": "Gruesome means horrible or revolting."
+    },
+    {
+      "id": 268,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The queen walked into the room with a _____ grace.'",
+      "options": ["regal", "puny", "casual", "graphic"],
+      "answer": 0,
+      "explanation": "Regal means royal or kinglike."
+    },
+    {
+      "id": 269,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'accelerate'?",
+      "options": ["decelerate", "quicken", "hasten", "speed up"],
+      "answer": 0,
+      "explanation": "Accelerate means speed up; decelerate is the opposite."
+    },
+    {
+      "id": 270,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'puny'?",
+      "options": ["robust", "small", "weak", "undersized"],
+      "answer": 0,
+      "explanation": "Puny means small or weak; robust is the opposite."
+    },
+    {
+      "id": 271,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'persist'?",
+      "options": ["give up", "endure", "persevere", "continue"],
+      "answer": 0,
+      "explanation": "Persist means to continue; give up is the opposite."
+    },
+    {
+      "id": 272,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'entice'?",
+      "options": ["lure", "repel", "sicken", "revolt"],
+      "answer": 0,
+      "explanation": "Entice means to attract or lure."
+    },
+    {
+      "id": 273,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'melancholy'?",
+      "options": ["depressed", "merry", "cheerful", "happy"],
+      "answer": 0,
+      "explanation": "Melancholy means sad or depressed."
+    },
+    {
+      "id": 274,
+      "unit": "Unit 9",
+      "type": "true_false",
+      "question": "True or False: 'Vital' means unnecessary or nonessential.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Vital means necessary to life or essential."
+    },
+    {
+      "id": 275,
+      "unit": "Unit 9",
+      "type": "true_false",
+      "question": "True or False: 'Stifle' means to smother or hold back.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Stifle means to smother or prevent from breathing."
+    },
+        {
+      "id": 276,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make a sound similar to a bull, roar; a loud angry roar'?",
+      "options": ["bellow", "botch", "clutter", "shirk"],
+      "answer": 0,
+      "explanation": "Bellow means to make a sound like a bull or a loud angry roar."
+    },
+    {
+      "id": 277,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'one who benefits from something; a person left money or property in a will'?",
+      "options": ["beneficiary", "parasite", "braggart", "lair"],
+      "answer": 0,
+      "explanation": "A beneficiary is one who benefits from something or inherits property."
+    },
+    {
+      "id": 278,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to repair or patch poorly; make a mess of'?",
+      "options": ["botch", "dismantle", "pamper", "veto"],
+      "answer": 0,
+      "explanation": "Botch means to repair poorly or make a mess of."
+    },
+    {
+      "id": 279,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to fill or cover in a disorderly way; a state of disorder, mess'?",
+      "options": ["clutter", "surplus", "farce", "timidity"],
+      "answer": 0,
+      "explanation": "Clutter means to fill in a disorderly way or a state of mess."
+    },
+    {
+      "id": 280,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'falling apart or ruined, run-down'?",
+      "options": ["dilapidated", "grueling", "hospitable", "morbid"],
+      "answer": 0,
+      "explanation": "Dilapidated means falling apart or run-down."
+    },
+    {
+      "id": 281,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to take apart; to strip of something'?",
+      "options": ["dismantle", "botch", "pamper", "veto"],
+      "answer": 0,
+      "explanation": "Dismantle means to take apart."
+    },
+    {
+      "id": 282,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'a play filled with ridiculous or absurd happenings; a ridiculous sham'?",
+      "options": ["farce", "bellow", "lair", "surplus"],
+      "answer": 0,
+      "explanation": "A farce is a ridiculous sham or absurd play."
+    },
+    {
+      "id": 283,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'not successful, failing to have any result, useless'?",
+      "options": ["futile", "grueling", "lavish", "notorious"],
+      "answer": 0,
+      "explanation": "Futile means not successful or useless."
+    },
+    {
+      "id": 284,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'very tiring, calling for an extreme effort'?",
+      "options": ["grueling", "hospitable", "morbid", "futile"],
+      "answer": 0,
+      "explanation": "Grueling means very tiring or exhausting."
+    },
+    {
+      "id": 285,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'offering friendly or generous treatment to guests'?",
+      "options": ["hospitable", "notorious", "morbid", "dilapidated"],
+      "answer": 0,
+      "explanation": "Hospitable means friendly and generous to guests."
+    },
+    {
+      "id": 286,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'the home or den of a wild animal, any hideout'?",
+      "options": ["lair", "parasite", "surplus", "clutter"],
+      "answer": 0,
+      "explanation": "A lair is the home or den of a wild animal."
+    },
+    {
+      "id": 287,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'overly generous, extravagant; abundant'?",
+      "options": ["lavish", "futile", "puny", "timidity"],
+      "answer": 0,
+      "explanation": "Lavish means overly generous or extravagant."
+    },
+    {
+      "id": 288,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'in an unhealthy mental state, extremely gloomy'?",
+      "options": ["morbid", "hospitable", "notorious", "grueling"],
+      "answer": 0,
+      "explanation": "Morbid means in an unhealthy mental state or extremely gloomy."
+    },
+    {
+      "id": 289,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'widely known because of bad conduct'?",
+      "options": ["notorious", "hospitable", "futile", "dilapidated"],
+      "answer": 0,
+      "explanation": "Notorious means widely known because of bad conduct."
+    },
+    {
+      "id": 290,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to allow too many privileges, be too generous toward'?",
+      "options": ["pamper", "shirk", "veto", "botch"],
+      "answer": 0,
+      "explanation": "Pamper means to allow too many privileges or be too generous."
+    },
+    {
+      "id": 291,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'an organism that lives on another; one who lives off another person'?",
+      "options": ["parasite", "beneficiary", "braggart", "lair"],
+      "answer": 0,
+      "explanation": "A parasite is an organism that lives on another or a freeloader."
+    },
+    {
+      "id": 292,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'to avoid or get out of doing work, neglect a duty'?",
+      "options": ["shirk", "pamper", "veto", "botch"],
+      "answer": 0,
+      "explanation": "Shirk means to avoid work or neglect a duty."
+    },
+    {
+      "id": 293,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'an amount beyond what is required, excess'?",
+      "options": ["surplus", "clutter", "farce", "timidity"],
+      "answer": 0,
+      "explanation": "Surplus means an amount beyond what is required."
+    },
+    {
+      "id": 294,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'the state of being easily frightened'?",
+      "options": ["timidity", "surplus", "farce", "morbid"],
+      "answer": 0,
+      "explanation": "Timidity means the state of being easily frightened."
+    },
+    {
+      "id": 295,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word means 'the power to forbid or prevent; to prohibit, reject'?",
+      "options": ["veto", "surplus", "pamper", "shirk"],
+      "answer": 0,
+      "explanation": "Veto means the power to forbid or to prohibit."
+    },
+    {
+      "id": 296,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The old house was so _____ that the roof had caved in.'",
+      "options": ["dilapidated", "grueling", "hospitable", "morbid"],
+      "answer": 0,
+      "explanation": "Dilapidated means falling apart or run-down."
+    },
+    {
+      "id": 297,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Trying to fix the broken machine without instructions proved to be a _____ effort.'",
+      "options": ["futile", "grueling", "lavish", "notorious"],
+      "answer": 0,
+      "explanation": "Futile means not successful or useless."
+    },
+    {
+      "id": 298,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The host was so _____ that she offered us dinner and a place to stay.'",
+      "options": ["hospitable", "notorious", "morbid", "dilapidated"],
+      "answer": 0,
+      "explanation": "Hospitable means friendly and generous to guests."
+    },
+    {
+      "id": 299,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ criminal had been arrested in five different states.'",
+      "options": ["notorious", "hospitable", "futile", "dilapidated"],
+      "answer": 0,
+      "explanation": "Notorious means widely known because of bad conduct."
+    },
+    {
+      "id": 300,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The farmer had a _____ of corn and sold the extra at the market.'",
+      "options": ["surplus", "clutter", "farce", "timidity"],
+      "answer": 0,
+      "explanation": "Surplus means an amount beyond what is required."
+    },
+    {
+      "id": 301,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The shy child showed _____ when asked to speak in front of the class.'",
+      "options": ["timidity", "surplus", "farce", "morbid"],
+      "answer": 0,
+      "explanation": "Timidity means the state of being easily frightened."
+    },
+    {
+      "id": 302,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The mayor decided to _____ the bill because it was unfair.'",
+      "options": ["veto", "surplus", "pamper", "shirk"],
+      "answer": 0,
+      "explanation": "Veto means to prohibit or reject."
+    },
+    {
+      "id": 303,
+      "unit": "Unit 10",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'He tried to _____ his chores by pretending to be sick.'",
+      "options": ["shirk", "pamper", "veto", "botch"],
+      "answer": 0,
+      "explanation": "Shirk means to avoid work or neglect a duty."
+    },
+    {
+      "id": 304,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'dilapidated'?",
+      "options": ["shipshape", "run-down", "ruined", "deteriorated"],
+      "answer": 0,
+      "explanation": "Dilapidated means run-down; shipshape is the opposite."
+    },
+    {
+      "id": 305,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'futile'?",
+      "options": ["effective", "useless", "vain", "fruitless"],
+      "answer": 0,
+      "explanation": "Futile means useless; effective is the opposite."
+    },
+    {
+      "id": 306,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'hospitable'?",
+      "options": ["unfriendly", "gracious", "cordial", "courteous"],
+      "answer": 0,
+      "explanation": "Hospitable means friendly; unfriendly is the opposite."
+    },
+    {
+      "id": 307,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'lavish'?",
+      "options": ["stingy", "excessive", "profuse", "abundant"],
+      "answer": 0,
+      "explanation": "Lavish means overly generous; stingy is the opposite."
+    },
+    {
+      "id": 308,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'shirk'?",
+      "options": ["sidestep", "fulfill", "perform", "shoulder"],
+      "answer": 0,
+      "explanation": "Shirk means to avoid work; sidestep is a synonym."
+    },
+    {
+      "id": 309,
+      "unit": "Unit 10",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'pamper'?",
+      "options": ["coddle", "abuse", "maltreat", "mistreat"],
+      "answer": 0,
+      "explanation": "Pamper means to indulge; coddle is a synonym."
+    },
+    {
+      "id": 310,
+      "unit": "Unit 10",
+      "type": "true_false",
+      "question": "True or False: 'Morbid' means wholesome and healthy.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Morbid means in an unhealthy mental state or extremely gloomy."
+    },
+    {
+      "id": 311,
+      "unit": "Unit 10",
+      "type": "true_false",
+      "question": "True or False: 'Parasite' can mean a person who lives off another person.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. A parasite can be a freeloader or sponger."
+    },
+        {
+      "id": 312,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'sufficient, enough'?",
+      "options": ["adequate", "ajar", "gigantic", "lax"],
+      "answer": 0,
+      "explanation": "Adequate means sufficient or enough."
+    },
+    {
+      "id": 313,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'partly open'?",
+      "options": ["ajar", "adequate", "gigantic", "lax"],
+      "answer": 0,
+      "explanation": "Ajar means partly open."
+    },
+    {
+      "id": 314,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'a conversation between two or more people; an interchange of opinions'?",
+      "options": ["dialogue", "emblem", "hearth", "narrative"],
+      "answer": 0,
+      "explanation": "Dialogue means a conversation or interchange of opinions."
+    },
+    {
+      "id": 315,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'a symbol, sign, token'?",
+      "options": ["emblem", "dialogue", "hearth", "havoc"],
+      "answer": 0,
+      "explanation": "An emblem is a symbol, sign, or token."
+    },
+    {
+      "id": 316,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'huge, giant, immense'?",
+      "options": ["gigantic", "adequate", "lax", "infamous"],
+      "answer": 0,
+      "explanation": "Gigantic means huge, giant, or immense."
+    },
+    {
+      "id": 317,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'very great destruction, ruin; great confusion and disorder'?",
+      "options": ["havoc", "emblem", "hearth", "dialogue"],
+      "answer": 0,
+      "explanation": "Havoc means very great destruction or confusion."
+    },
+    {
+      "id": 318,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'the floor of a fireplace; the fireside as a symbol of home and family'?",
+      "options": ["hearth", "havoc", "emblem", "dialogue"],
+      "answer": 0,
+      "explanation": "A hearth is the floor of a fireplace or symbol of home."
+    },
+    {
+      "id": 319,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'to beg earnestly for'?",
+      "options": ["implore", "mull", "mar", "wilt"],
+      "answer": 0,
+      "explanation": "Implore means to beg earnestly for."
+    },
+    {
+      "id": 320,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'very wicked; disgraceful, shameful'?",
+      "options": ["infamous", "gigantic", "lax", "adequate"],
+      "answer": 0,
+      "explanation": "Infamous means very wicked or disgraceful."
+    },
+    {
+      "id": 321,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'too many to count, without number'?",
+      "options": ["innumerable", "gigantic", "lax", "infamous"],
+      "answer": 0,
+      "explanation": "Innumerable means too many to count."
+    },
+    {
+      "id": 322,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'not strict, careless; lacking discipline'?",
+      "options": ["lax", "adequate", "infamous", "gigantic"],
+      "answer": 0,
+      "explanation": "Lax means not strict or careless."
+    },
+    {
+      "id": 323,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'to spoil, damage, injure'?",
+      "options": ["mar", "mull", "wilt", "implore"],
+      "answer": 0,
+      "explanation": "Mar means to spoil, damage, or injure."
+    },
+    {
+      "id": 324,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'a story, detailed report'?",
+      "options": ["narrative", "dialogue", "emblem", "hearth"],
+      "answer": 0,
+      "explanation": "A narrative is a story or detailed report."
+    },
+    {
+      "id": 325,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ window let in a cool breeze.'",
+      "options": ["ajar", "adequate", "gigantic", "lax"],
+      "answer": 0,
+      "explanation": "Ajar means partly open."
+    },
+    {
+      "id": 326,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The storm caused _____ in the small coastal town.'",
+      "options": ["havoc", "emblem", "hearth", "dialogue"],
+      "answer": 0,
+      "explanation": "Havoc means great destruction or confusion."
+    },
+    {
+      "id": 327,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She began to _____ with the judge for mercy.'",
+      "options": ["implore", "mull", "mar", "wilt"],
+      "answer": 0,
+      "explanation": "Implore means to beg earnestly."
+    },
+    {
+      "id": 328,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ criminal was known throughout the country.'",
+      "options": ["infamous", "gigantic", "lax", "adequate"],
+      "answer": 0,
+      "explanation": "Infamous means very wicked or disgraceful."
+    },
+    {
+      "id": 329,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher was _____ about deadlines and never enforced them.'",
+      "options": ["lax", "adequate", "infamous", "gigantic"],
+      "answer": 0,
+      "explanation": "Lax means not strict or lacking discipline."
+    },
+    {
+      "id": 330,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The scratch on the table _____ the otherwise perfect finish.'",
+      "options": ["marred", "mulled", "wilted", "implored"],
+      "answer": 0,
+      "explanation": "Mar means to spoil or damage."
+    },
+    {
+      "id": 331,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'adequate'?",
+      "options": ["insufficient", "satisfactory", "sufficing", "enough"],
+      "answer": 0,
+      "explanation": "Adequate means sufficient; insufficient is the opposite."
+    },
+    {
+      "id": 332,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'gigantic'?",
+      "options": ["tiny", "enormous", "colossal", "mammoth"],
+      "answer": 0,
+      "explanation": "Gigantic means huge; tiny is the opposite."
+    },
+    {
+      "id": 333,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'havoc'?",
+      "options": ["order", "devastation", "harm", "disarray"],
+      "answer": 0,
+      "explanation": "Havoc means confusion; order is the opposite."
+    },
+    {
+      "id": 334,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'infamous'?",
+      "options": ["praiseworthy", "scandalous", "villainous", "heinous"],
+      "answer": 0,
+      "explanation": "Infamous means wicked; praiseworthy is the opposite."
+    },
+    {
+      "id": 335,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'implore'?",
+      "options": ["entreat", "demand", "clamor", "command"],
+      "answer": 0,
+      "explanation": "Implore means to beg; entreat is a synonym."
+    },
+    {
+      "id": 336,
+      "unit": "Unit 11",
+      "type": "true_false",
+      "question": "True or False: 'Lax' means strict and disciplined.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Lax means not strict or careless."
+    },
+        {
+      "id": 337,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'to be plentiful, be filled'?",
+      "options": ["abound", "rant", "reinforce", "seclusion"],
+      "answer": 0,
+      "explanation": "Abound means to be plentiful or filled."
+    },
+    {
+      "id": 338,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a boaster; boastful in a loud, annoying way'?",
+      "options": ["braggart", "cache", "quest", "status"],
+      "answer": 0,
+      "explanation": "A braggart is a boaster or someone boastful in an annoying way."
+    },
+    {
+      "id": 339,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a hiding place; something hidden or stored'?",
+      "options": ["cache", "braggart", "quest", "turmoil"],
+      "answer": 0,
+      "explanation": "A cache is a hiding place or something hidden."
+    },
+    {
+      "id": 340,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'the act of making clear or understandable, an explanation'?",
+      "options": ["clarification", "seclusion", "status", "turmoil"],
+      "answer": 0,
+      "explanation": "Clarification is the act of making clear or an explanation."
+    },
+    {
+      "id": 341,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'sad, without hope, discouraged'?",
+      "options": ["despondent", "lethargic", "mellow", "nomadic"],
+      "answer": 0,
+      "explanation": "Despondent means sad, without hope, or discouraged."
+    },
+    {
+      "id": 342,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'to steal property entrusted to one's care'?",
+      "options": ["embezzle", "reinforce", "rant", "abound"],
+      "answer": 0,
+      "explanation": "Embezzle means to steal property entrusted to one's care."
+    },
+    {
+      "id": 343,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'causing mental pain or grief'?",
+      "options": ["heartrending", "leisurely", "mellow", "random"],
+      "answer": 0,
+      "explanation": "Heartrending means causing mental pain or grief."
+    },
+    {
+      "id": 344,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'unhurried, taking plenty of time'?",
+      "options": ["leisurely", "lethargic", "nomadic", "piecemeal"],
+      "answer": 0,
+      "explanation": "Leisurely means unhurried or taking plenty of time."
+    },
+    {
+      "id": 345,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'unnaturally sleepy; dull, slow moving; indifferent'?",
+      "options": ["lethargic", "leisurely", "mellow", "despondent"],
+      "answer": 0,
+      "explanation": "Lethargic means unnaturally sleepy or slow moving."
+    },
+    {
+      "id": 346,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a sickness, illness, disease, disorder'?",
+      "options": ["malady", "cache", "quest", "status"],
+      "answer": 0,
+      "explanation": "A malady is a sickness or illness."
+    },
+    {
+      "id": 347,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'ripe, well-matured; soft, sweet, and rich; gentle, pleasant'?",
+      "options": ["mellow", "lethargic", "nomadic", "random"],
+      "answer": 0,
+      "explanation": "Mellow means ripe, well-matured, or gentle and pleasant."
+    },
+    {
+      "id": 348,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'wandering, moving about from place to place'?",
+      "options": ["nomadic", "leisurely", "piecemeal", "random"],
+      "answer": 0,
+      "explanation": "Nomadic means wandering or moving from place to place."
+    },
+    {
+      "id": 349,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'one piece at a time; gradually'?",
+      "options": ["piecemeal", "leisurely", "random", "nomadic"],
+      "answer": 0,
+      "explanation": "Piecemeal means one piece at a time or gradually."
+    },
+    {
+      "id": 350,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a search, hunt'?",
+      "options": ["quest", "cache", "status", "turmoil"],
+      "answer": 0,
+      "explanation": "A quest is a search or hunt."
+    },
+    {
+      "id": 351,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'by chance, not planned or prearranged; irregular'?",
+      "options": ["random", "piecemeal", "nomadic", "leisurely"],
+      "answer": 0,
+      "explanation": "Random means by chance or not planned."
+    },
+    {
+      "id": 352,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'to speak wildly and noisily; loud, violent talk'?",
+      "options": ["rant", "abound", "reinforce", "embezzle"],
+      "answer": 0,
+      "explanation": "Rant means to speak wildly and noisily."
+    },
+    {
+      "id": 353,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make stronger with new materials or support'?",
+      "options": ["reinforce", "abound", "rant", "embezzle"],
+      "answer": 0,
+      "explanation": "Reinforce means to make stronger with new materials or support."
+    },
+    {
+      "id": 354,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'isolation from others, solitude'?",
+      "options": ["seclusion", "status", "turmoil", "clarification"],
+      "answer": 0,
+      "explanation": "Seclusion means isolation from others or solitude."
+    },
+    {
+      "id": 355,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a person's condition or position in the eyes of the law; relative rank or standing'?",
+      "options": ["status", "seclusion", "turmoil", "clarification"],
+      "answer": 0,
+      "explanation": "Status means a person's condition or position in the eyes of the law."
+    },
+    {
+      "id": 356,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word means 'a state of great confusion or disorder; mental strain or agitation'?",
+      "options": ["turmoil", "seclusion", "status", "clarification"],
+      "answer": 0,
+      "explanation": "Turmoil means a state of great confusion or disorder."
+    },
+    {
+      "id": 357,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Fish _____ in the lake during the summer months.'",
+      "options": ["abound", "rant", "reinforce", "embezzle"],
+      "answer": 0,
+      "explanation": "Abound means to be plentiful."
+    },
+    {
+      "id": 358,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The squirrel stored nuts in its _____ for the winter.'",
+      "options": ["cache", "braggart", "quest", "turmoil"],
+      "answer": 0,
+      "explanation": "A cache is a hiding place or something hidden."
+    },
+    {
+      "id": 359,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'After losing the championship, the team felt _____ and hopeless.'",
+      "options": ["despondent", "lethargic", "mellow", "nomadic"],
+      "answer": 0,
+      "explanation": "Despondent means sad or without hope."
+    },
+    {
+      "id": 360,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The accountant tried to _____ money from the company.'",
+      "options": ["embezzle", "reinforce", "rant", "abound"],
+      "answer": 0,
+      "explanation": "Embezzle means to steal property entrusted to one's care."
+    },
+    {
+      "id": 361,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ story about the lost dog made everyone cry.'",
+      "options": ["heartrending", "leisurely", "mellow", "random"],
+      "answer": 0,
+      "explanation": "Heartrending means causing mental pain or grief."
+    },
+    {
+      "id": 362,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ cat slept in the sun all afternoon.'",
+      "options": ["lethargic", "leisurely", "mellow", "despondent"],
+      "answer": 0,
+      "explanation": "Lethargic means unnaturally sleepy or slow moving."
+    },
+    {
+      "id": 363,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ tribe moved with the seasons to find food.'",
+      "options": ["nomadic", "leisurely", "piecemeal", "random"],
+      "answer": 0,
+      "explanation": "Nomadic means wandering or moving from place to place."
+    },
+    {
+      "id": 364,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The knight set out on a _____ to find the lost treasure.'",
+      "options": ["quest", "cache", "status", "turmoil"],
+      "answer": 0,
+      "explanation": "A quest is a search or hunt."
+    },
+    {
+      "id": 365,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ selection of lottery numbers was completely unplanned.'",
+      "options": ["random", "piecemeal", "nomadic", "leisurely"],
+      "answer": 0,
+      "explanation": "Random means by chance or not planned."
+    },
+    {
+      "id": 366,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The workers _____ the bridge with steel beams.'",
+      "options": ["reinforced", "abounded", "ranted", "embezzled"],
+      "answer": 0,
+      "explanation": "Reinforce means to make stronger with new materials or support."
+    },
+    {
+      "id": 367,
+      "unit": "Unit 12",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The writer enjoyed the _____ of the mountain cabin.'",
+      "options": ["seclusion", "status", "turmoil", "clarification"],
+      "answer": 0,
+      "explanation": "Seclusion means isolation from others or solitude."
+    },
+    {
+      "id": 368,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'despondent'?",
+      "options": ["jubilant", "dejected", "depressed", "forlorn"],
+      "answer": 0,
+      "explanation": "Despondent means sad; jubilant is the opposite."
+    },
+    {
+      "id": 369,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'lethargic'?",
+      "options": ["energetic", "lazy", "sluggish", "listless"],
+      "answer": 0,
+      "explanation": "Lethargic means slow or sleepy; energetic is the opposite."
+    },
+    {
+      "id": 370,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'nomadic'?",
+      "options": ["settled", "roaming", "vagrant", "migratory"],
+      "answer": 0,
+      "explanation": "Nomadic means wandering; settled is the opposite."
+    },
+    {
+      "id": 371,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'random'?",
+      "options": ["planned", "haphazard", "accidental", "irregular"],
+      "answer": 0,
+      "explanation": "Random means by chance; planned is the opposite."
+    },
+    {
+      "id": 372,
+      "unit": "Unit 12",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'abound'?",
+      "options": ["teem", "lack", "want", "need"],
+      "answer": 0,
+      "explanation": "Abound means to be plentiful; teem is a synonym."
+    },
+    {
+      "id": 373,
+      "unit": "Unit 12",
+      "type": "true_false",
+      "question": "True or False: 'Mellow' means harsh and grating.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Mellow means soft, sweet, gentle, or pleasant."
+    },
+    {
+      "id": 374,
+      "unit": "Unit 12",
+      "type": "true_false",
+      "question": "True or False: 'Turmoil' means a state of great confusion or disorder.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Turmoil means great confusion or disorder."
+    },
+        {
+      "id": 375,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to say suddenly or without thinking'?",
+      "options": ["blurt", "grovel", "revere", "kindle"],
+      "answer": 0,
+      "explanation": "Blurt means to say suddenly or without thinking."
+    },
+    {
+      "id": 376,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'arranged in order of time of occurrence'?",
+      "options": ["chronological", "mammoth", "maternal", "stodgy"],
+      "answer": 0,
+      "explanation": "Chronological means arranged in order of time."
+    },
+    {
+      "id": 377,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to make or become smaller, reduce in size'?",
+      "options": ["diminish", "kindle", "revere", "grovel"],
+      "answer": 0,
+      "explanation": "Diminish means to make or become smaller."
+    },
+    {
+      "id": 378,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to please greatly; to charm, put under a magic spell'?",
+      "options": ["enchant", "grovel", "revere", "kindle"],
+      "answer": 0,
+      "explanation": "Enchant means to please greatly or charm."
+    },
+    {
+      "id": 379,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to humble oneself, act in a fearful and servile way'?",
+      "options": ["grovel", "blurt", "revere", "kindle"],
+      "answer": 0,
+      "explanation": "Grovel means to humble oneself or act in a servile way."
+    },
+    {
+      "id": 380,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'work done by hand; a trade requiring hand skill'?",
+      "options": ["handicraft", "agitation", "magnitude", "mammoth"],
+      "answer": 0,
+      "explanation": "Handicraft means work done by hand or a trade requiring hand skill."
+    },
+    {
+      "id": 381,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'extremely funny, causing loud amusement'?",
+      "options": ["hilarious", "stodgy", "morbid", "maternal"],
+      "answer": 0,
+      "explanation": "Hilarious means extremely funny or causing loud amusement."
+    },
+    {
+      "id": 382,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to set on fire, cause to burn; to heat up, excite'?",
+      "options": ["kindle", "grovel", "revere", "blurt"],
+      "answer": 0,
+      "explanation": "Kindle means to set on fire or excite."
+    },
+    {
+      "id": 383,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'large and heavy; great in size or scope'?",
+      "options": ["mammoth", "stodgy", "maternal", "chronological"],
+      "answer": 0,
+      "explanation": "Mammoth means large and heavy or great in size."
+    },
+    {
+      "id": 384,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'of or like a mother'?",
+      "options": ["maternal", "mammoth", "stodgy", "hilarious"],
+      "answer": 0,
+      "explanation": "Maternal means of or like a mother."
+    },
+    {
+      "id": 385,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'well thought of, having a good reputation'?",
+      "options": ["reputable", "stodgy", "morbid", "mammoth"],
+      "answer": 0,
+      "explanation": "Reputable means well thought of or having a good reputation."
+    },
+    {
+      "id": 386,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to love and respect deeply, honor greatly'?",
+      "options": ["revere", "grovel", "blurt", "kindle"],
+      "answer": 0,
+      "explanation": "Revere means to love and respect deeply."
+    },
+    {
+      "id": 387,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'a narrative of heroic exploits; a long, detailed account'?",
+      "options": ["saga", "handicraft", "agitation", "magnitude"],
+      "answer": 0,
+      "explanation": "A saga is a narrative of heroic exploits or a long detailed account."
+    },
+    {
+      "id": 388,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'dull, boring; old-fashioned, hidebound'?",
+      "options": ["stodgy", "hilarious", "mammoth", "maternal"],
+      "answer": 0,
+      "explanation": "Stodgy means dull, boring, or old-fashioned."
+    },
+    {
+      "id": 389,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'a violent stirring or movement; noisy confusion, excitement'?",
+      "options": ["agitation", "magnitude", "handicraft", "saga"],
+      "answer": 0,
+      "explanation": "Agitation means a violent stirring or movement, or noisy confusion."
+    },
+    {
+      "id": 390,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She couldn't help but _____ the answer before the teacher finished the question.'",
+      "options": ["blurt", "grovel", "revere", "kindle"],
+      "answer": 0,
+      "explanation": "Blurt means to say suddenly or without thinking."
+    },
+    {
+      "id": 391,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The students were told to _____ the principal for her years of service.'",
+      "options": ["revere", "grovel", "blurt", "kindle"],
+      "answer": 0,
+      "explanation": "Revere means to love and respect deeply."
+    },
+    {
+      "id": 392,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ story about the lost puppy made everyone laugh.'",
+      "options": ["hilarious", "stodgy", "morbid", "maternal"],
+      "answer": 0,
+      "explanation": "Hilarious means extremely funny."
+    },
+    {
+      "id": 393,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The campfire began to _____ as the wind picked up.'",
+      "options": ["kindle", "grovel", "revere", "blurt"],
+      "answer": 0,
+      "explanation": "Kindle means to set on fire or cause to burn."
+    },
+    {
+      "id": 394,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ elephant stood taller than the trees.'",
+      "options": ["mammoth", "stodgy", "maternal", "chronological"],
+      "answer": 0,
+      "explanation": "Mammoth means large and heavy or great in size."
+    },
+    {
+      "id": 395,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The lawyer was known as a _____ member of the community.'",
+      "options": ["reputable", "stodgy", "morbid", "mammoth"],
+      "answer": 0,
+      "explanation": "Reputable means well thought of or having a good reputation."
+    },
+    {
+      "id": 396,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'diminish'?",
+      "options": ["increase", "lessen", "decrease", "dwindle"],
+      "answer": 0,
+      "explanation": "Diminish means to reduce; increase is the opposite."
+    },
+    {
+      "id": 397,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'stodgy'?",
+      "options": ["progressive", "stuffy", "tiresome", "boring"],
+      "answer": 0,
+      "explanation": "Stodgy means old-fashioned; progressive is the opposite."
+    },
+    {
+      "id": 398,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'reputable'?",
+      "options": ["shady", "reliable", "respectable", "trustworthy"],
+      "answer": 0,
+      "explanation": "Reputable means trustworthy; shady is the opposite."
+    },
+    {
+      "id": 399,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'a physical ailment; a cause of pain or trouble, misfortune'?",
+      "options": ["affliction", "akin", "gala", "hoax"],
+      "answer": 0,
+      "explanation": "An affliction is a physical ailment or cause of pain or trouble."
+    },
+    {
+      "id": 400,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'related by blood; having similar qualities or character'?",
+      "options": ["akin", "affliction", "cosmopolitan", "impartial"],
+      "answer": 0,
+      "explanation": "Akin means related by blood or having similar qualities."
+    },
+    {
+      "id": 401,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'found in most parts of the world; having many fields of interest; sophisticated'?",
+      "options": ["cosmopolitan", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Cosmopolitan means found in most parts of the world or sophisticated."
+    },
+    {
+      "id": 402,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to grow in length, become longer; to extend the length of'?",
+      "options": ["elongate", "inflate", "meditate", "transmit"],
+      "answer": 0,
+      "explanation": "Elongate means to grow in length or extend the length of."
+    },
+    {
+      "id": 403,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'a public entertainment marking a special event, a festive occasion'?",
+      "options": ["gala", "affliction", "hoax", "quest"],
+      "answer": 0,
+      "explanation": "A gala is a public entertainment marking a special event."
+    },
+    {
+      "id": 404,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'flashy, showy; not in good taste'?",
+      "options": ["gaudy", "cosmopolitan", "impartial", "meager"],
+      "answer": 0,
+      "explanation": "Gaudy means flashy, showy, or not in good taste."
+    },
+    {
+      "id": 405,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'appreciation, thankfulness'?",
+      "options": ["gratitude", "hoax", "heed", "impostor"],
+      "answer": 0,
+      "explanation": "Gratitude means appreciation or thankfulness."
+    },
+    {
+      "id": 406,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to pay careful attention to, notice; to be guided by'?",
+      "options": ["heed", "gratitude", "hoax", "meditate"],
+      "answer": 0,
+      "explanation": "Heed means to pay careful attention to or notice."
+    },
+    {
+      "id": 407,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'an act intended to trick or deceive, a fraud'?",
+      "options": ["hoax", "gala", "gratitude", "affliction"],
+      "answer": 0,
+      "explanation": "A hoax is an act intended to trick or deceive."
+    },
+    {
+      "id": 408,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'just, unbiased, fair, not taking sides'?",
+      "options": ["impartial", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Impartial means just, unbiased, fair, or not taking sides."
+    },
+    {
+      "id": 409,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'a swindler, deceiver; one who uses a false name or character to cheat'?",
+      "options": ["impostor", "hoax", "gala", "affliction"],
+      "answer": 0,
+      "explanation": "An impostor is a swindler or deceiver who uses a false identity."
+    },
+    {
+      "id": 410,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to fill with air or gas; to swell or puff out; to make something appear larger'?",
+      "options": ["inflate", "elongate", "meditate", "transmit"],
+      "answer": 0,
+      "explanation": "Inflate means to fill with air or gas or make something appear larger."
+    },
+    {
+      "id": 411,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'poor, scant, unsatisfactory; thin, slight'?",
+      "options": ["meager", "gaudy", "cosmopolitan", "pedestrian"],
+      "answer": 0,
+      "explanation": "Meager means poor, scant, or unsatisfactory."
+    },
+    {
+      "id": 412,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to think about deeply and quietly, reflect upon; to plan, intend'?",
+      "options": ["meditate", "elongate", "inflate", "transmit"],
+      "answer": 0,
+      "explanation": "Meditate means to think about deeply and quietly."
+    },
+    {
+      "id": 413,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'nourishing, valuable and satisfying as food'?",
+      "options": ["nutritious", "meager", "gaudy", "pedestrian"],
+      "answer": 0,
+      "explanation": "Nutritious means nourishing or valuable as food."
+    },
+    {
+      "id": 414,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to govern or rule cruelly or unjustly; to weigh heavily upon'?",
+      "options": ["oppress", "transmit", "vanquish", "heed"],
+      "answer": 0,
+      "explanation": "Oppress means to govern or rule cruelly or unjustly."
+    },
+    {
+      "id": 415,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'one who goes on foot; relating to walking; ordinary, dull, unimaginative'?",
+      "options": ["pedestrian", "impostor", "gala", "cosmopolitan"],
+      "answer": 0,
+      "explanation": "A pedestrian is one who goes on foot, or can mean ordinary and dull."
+    },
+    {
+      "id": 416,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to send on, pass along, send out'?",
+      "options": ["transmit", "oppress", "vanquish", "inflate"],
+      "answer": 0,
+      "explanation": "Transmit means to send on, pass along, or send out."
+    },
+    {
+      "id": 417,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'to defeat in a battle or contest, overthrow; to overcome a feeling or condition'?",
+      "options": ["vanquish", "oppress", "transmit", "heed"],
+      "answer": 0,
+      "explanation": "Vanquish means to defeat in battle or overcome."
+    },
+    {
+      "id": 418,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word means 'unnaturally pale or sickly looking, lacking vitality; dim, faint; weak'?",
+      "options": ["wan", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Wan means unnaturally pale or sickly looking."
+    },
+    {
+      "id": 419,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ of arthritis made it difficult for her to walk.'",
+      "options": ["affliction", "akin", "gala", "hoax"],
+      "answer": 0,
+      "explanation": "An affliction is a physical ailment or cause of pain."
+    },
+    {
+      "id": 420,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two cousins were so _____ that people often mistook them for siblings.'",
+      "options": ["akin", "affliction", "cosmopolitan", "impartial"],
+      "answer": 0,
+      "explanation": "Akin means related by blood or having similar qualities."
+    },
+    {
+      "id": 421,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The city is known for its _____ atmosphere, with people from many cultures.'",
+      "options": ["cosmopolitan", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Cosmopolitan means found in most parts of the world or sophisticated."
+    },
+    {
+      "id": 422,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ decorations were so bright that they hurt my eyes.'",
+      "options": ["gaudy", "cosmopolitan", "impartial", "meager"],
+      "answer": 0,
+      "explanation": "Gaudy means flashy, showy, or not in good taste."
+    },
+    {
+      "id": 423,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She expressed her _____ by writing a thank-you note.'",
+      "options": ["gratitude", "hoax", "heed", "impostor"],
+      "answer": 0,
+      "explanation": "Gratitude means appreciation or thankfulness."
+    },
+    {
+      "id": 424,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The judge promised to remain _____ throughout the trial.'",
+      "options": ["impartial", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Impartial means just, unbiased, or not taking sides."
+    },
+    {
+      "id": 425,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ pretended to be a doctor to steal from patients.'",
+      "options": ["impostor", "hoax", "gala", "affliction"],
+      "answer": 0,
+      "explanation": "An impostor is a swindler or deceiver who uses a false identity."
+    },
+    {
+      "id": 426,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ meal left everyone still hungry.'",
+      "options": ["meager", "gaudy", "cosmopolitan", "pedestrian"],
+      "answer": 0,
+      "explanation": "Meager means poor, scant, or unsatisfactory."
+    },
+    {
+      "id": 427,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher told the students to _____ the safety rules.'",
+      "options": ["heed", "gratitude", "hoax", "meditate"],
+      "answer": 0,
+      "explanation": "Heed means to pay careful attention to or notice."
+    },
+    {
+      "id": 428,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ vegetables were good for the growing children.'",
+      "options": ["nutritious", "meager", "gaudy", "pedestrian"],
+      "answer": 0,
+      "explanation": "Nutritious means nourishing or valuable as food."
+    },
+    {
+      "id": 429,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The dictator continued to _____ the citizens for years.'",
+      "options": ["oppress", "transmit", "vanquish", "heed"],
+      "answer": 0,
+      "explanation": "Oppress means to govern or rule cruelly or unjustly."
+    },
+    {
+      "id": 430,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The radio station will _____ the emergency alert at noon.'",
+      "options": ["transmit", "oppress", "vanquish", "inflate"],
+      "answer": 0,
+      "explanation": "Transmit means to send on, pass along, or send out."
+    },
+    {
+      "id": 431,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The army hoped to _____ the enemy before nightfall.'",
+      "options": ["vanquish", "oppress", "transmit", "heed"],
+      "answer": 0,
+      "explanation": "Vanquish means to defeat in battle or overcome."
+    },
+    {
+      "id": 432,
+      "unit": "Unit 14",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'After the long illness, her face looked pale and _____.'",
+      "options": ["wan", "gaudy", "meager", "pedestrian"],
+      "answer": 0,
+      "explanation": "Wan means unnaturally pale or sickly looking."
+    },
+    {
+      "id": 433,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'affliction'?",
+      "options": ["blessing", "illness", "woe", "torment"],
+      "answer": 0,
+      "explanation": "Affliction means pain or trouble; blessing is the opposite."
+    },
+    {
+      "id": 434,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'gaudy'?",
+      "options": ["restrained", "flashy", "showy", "vulgar"],
+      "answer": 0,
+      "explanation": "Gaudy means flashy; restrained is the opposite."
+    },
+    {
+      "id": 435,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'impartial'?",
+      "options": ["prejudiced", "neutral", "objective", "fair"],
+      "answer": 0,
+      "explanation": "Impartial means unbiased; prejudiced is the opposite."
+    },
+    {
+      "id": 436,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'meager'?",
+      "options": ["abundant", "scanty", "skimpy", "sparse"],
+      "answer": 0,
+      "explanation": "Meager means scant; abundant is the opposite."
+    },
+    {
+      "id": 437,
+      "unit": "Unit 14",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'wan'?",
+      "options": ["rosy", "pale", "ashen", "pallid"],
+      "answer": 0,
+      "explanation": "Wan means pale; rosy is the opposite."
+    },
+    {
+      "id": 438,
+      "unit": "Unit 14",
+      "type": "true_false",
+      "question": "True or False: 'Vanquish' means to surrender or yield.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Vanquish means to defeat or overcome."
+    },
+        {
+      "id": 439,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'official, coming from a source that calls for obedience or belief; dictatorial'?",
+      "options": ["authoritative", "bankrupt", "cynical", "hardy"],
+      "answer": 0,
+      "explanation": "Authoritative means official or dictatorial."
+    },
+    {
+      "id": 440,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'in a state of financial ruin; to ruin financially'?",
+      "options": ["bankrupt", "authoritative", "despot", "feud"],
+      "answer": 0,
+      "explanation": "Bankrupt means in a state of financial ruin."
+    },
+    {
+      "id": 441,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'a public outcry; any loud and continued noise'?",
+      "options": ["clamor", "mirth", "legacy", "feud"],
+      "answer": 0,
+      "explanation": "Clamor means a public outcry or loud, continued noise."
+    },
+    {
+      "id": 442,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'to be in full agreement; to happen at the same time'?",
+      "options": ["coincide", "haggle", "officiate", "patronize"],
+      "answer": 0,
+      "explanation": "Coincide means to be in full agreement or happen at the same time."
+    },
+    {
+      "id": 443,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'inclined to believe the worst of people; bitterly mocking or sneering'?",
+      "options": ["cynical", "harmonious", "hardy", "partial"],
+      "answer": 0,
+      "explanation": "Cynical means inclined to believe the worst or bitterly mocking."
+    },
+    {
+      "id": 444,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'a ruler who oppresses his or her subjects, a tyrant'?",
+      "options": ["despot", "feud", "legacy", "mirth"],
+      "answer": 0,
+      "explanation": "A despot is a tyrant or oppressive ruler."
+    },
+    {
+      "id": 445,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'a bitter, long-term quarrel; to fight or quarrel with'?",
+      "options": ["feud", "clamor", "legacy", "mirth"],
+      "answer": 0,
+      "explanation": "A feud is a bitter, long-term quarrel."
+    },
+    {
+      "id": 446,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'to argue in a petty way, especially about a price'?",
+      "options": ["haggle", "coincide", "officiate", "hoard"],
+      "answer": 0,
+      "explanation": "Haggle means to argue in a petty way, especially about price."
+    },
+    {
+      "id": 447,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'able to bear up under difficult conditions or harsh treatment; brave and tough'?",
+      "options": ["hardy", "cynical", "partial", "harmonious"],
+      "answer": 0,
+      "explanation": "Hardy means able to bear up under difficult conditions."
+    },
+    {
+      "id": 448,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'able to get along together well; combining different elements that blend pleasingly'?",
+      "options": ["harmonious", "cynical", "hardy", "legitimate"],
+      "answer": 0,
+      "explanation": "Harmonious means able to get along well or blend pleasingly."
+    },
+    {
+      "id": 449,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'to store up, save; a hidden store or supply'?",
+      "options": ["hoard", "haggle", "officiate", "patronize"],
+      "answer": 0,
+      "explanation": "Hoard means to store up or save."
+    },
+    {
+      "id": 450,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'slightly ill; disinclined to do something'?",
+      "options": ["indisposed", "harmonious", "cynical", "partial"],
+      "answer": 0,
+      "explanation": "Indisposed means slightly ill or disinclined."
+    },
+    {
+      "id": 451,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'an inheritance; something handed down from an ancestor or from the past'?",
+      "options": ["legacy", "mirth", "feud", "clamor"],
+      "answer": 0,
+      "explanation": "A legacy is an inheritance or something handed down from the past."
+    },
+    {
+      "id": 452,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'lawful, rightful; reasonable, justifiable'?",
+      "options": ["legitimate", "cynical", "harmonious", "hardy"],
+      "answer": 0,
+      "explanation": "Legitimate means lawful, rightful, or reasonable."
+    },
+    {
+      "id": 453,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'merry fun, gaiety; laughter'?",
+      "options": ["mirth", "legacy", "clamor", "feud"],
+      "answer": 0,
+      "explanation": "Mirth means merry fun or laughter."
+    },
+    {
+      "id": 454,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'to perform the duties of an office; to conduct religious ceremony; to referee'?",
+      "options": ["officiate", "haggle", "coincide", "patronize"],
+      "answer": 0,
+      "explanation": "Officiate means to perform the duties of an office or conduct a ceremony."
+    },
+    {
+      "id": 455,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word means 'not complete; favoring one side over another; showing a strong liking for someone or something'?",
+      "options": ["partial", "harmonious", "cynical", "indisposed"],
+      "answer": 0,
+      "explanation": "Partial means not complete, biased, or fond of."
+    },
+    {
+      "id": 456,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ company was forced to close its doors after years of losses.'",
+      "options": ["bankrupt", "authoritative", "despot", "feud"],
+      "answer": 0,
+      "explanation": "Bankrupt means in a state of financial ruin."
+    },
+    {
+      "id": 457,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ ruler ignored the needs of his people.'",
+      "options": ["despotic", "cynical", "harmonious", "partial"],
+      "answer": 0,
+      "explanation": "A despot is a tyrant or oppressive ruler."
+    },
+    {
+      "id": 458,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two families had been in a bitter _____ for generations.'",
+      "options": ["feud", "clamor", "legacy", "mirth"],
+      "answer": 0,
+      "explanation": "A feud is a bitter, long-term quarrel."
+    },
+    {
+      "id": 459,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The crowd began to _____ for the team to come out and play.'",
+      "options": ["clamor", "haggle", "officiate", "patronize"],
+      "answer": 0,
+      "explanation": "Clamor means to call for by loud, continued outcries."
+    },
+    {
+      "id": 460,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'Her grandmother's _____ included a small house and a collection of letters.'",
+      "options": ["legacy", "mirth", "feud", "clamor"],
+      "answer": 0,
+      "explanation": "A legacy is an inheritance or something handed down."
+    },
+    {
+      "id": 461,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The children were filled with _____ as they watched the clown perform.'",
+      "options": ["mirth", "legacy", "clamor", "feud"],
+      "answer": 0,
+      "explanation": "Mirth means merry fun or laughter."
+    },
+    {
+      "id": 462,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The judge agreed to _____ at the wedding ceremony.'",
+      "options": ["officiate", "haggle", "coincide", "patronize"],
+      "answer": 0,
+      "explanation": "Officiate means to conduct a ceremony."
+    },
+    {
+      "id": 463,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'It was difficult to _____ over the price of the souvenir.'",
+      "options": ["haggle", "officiate", "coincide", "hoard"],
+      "answer": 0,
+      "explanation": "Haggle means to argue in a petty way, especially about price."
+    },
+    {
+      "id": 464,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The _____ hiker was able to survive several days in the cold.'",
+      "options": ["hardy", "cynical", "partial", "harmonious"],
+      "answer": 0,
+      "explanation": "Hardy means able to bear up under difficult conditions."
+    },
+    {
+      "id": 465,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two companies had a _____ relationship that benefited both sides.'",
+      "options": ["harmonious", "cynical", "hardy", "legitimate"],
+      "answer": 0,
+      "explanation": "Harmonious means able to get along together well."
+    },
+    {
+      "id": 466,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The squirrel _____ nuts for the winter.'",
+      "options": ["hoarded", "haggled", "officiated", "patronized"],
+      "answer": 0,
+      "explanation": "Hoard means to store up or save."
+    },
+    {
+      "id": 467,
+      "unit": "Unit 15",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'She felt _____ and decided to stay home from the party.'",
+      "options": ["indisposed", "harmonious", "cynical", "partial"],
+      "answer": 0,
+      "explanation": "Indisposed means slightly ill or disinclined."
+    },
+    {
+      "id": 468,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'authoritative'?",
+      "options": ["unofficial", "reliable", "dictatorial", "official"],
+      "answer": 0,
+      "explanation": "Authoritative means official; unofficial is the opposite."
+    },
+    {
+      "id": 469,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'bankrupt'?",
+      "options": ["solvent", "insolvent", "ruined", "broke"],
+      "answer": 0,
+      "explanation": "Bankrupt means financially ruined; solvent is the opposite."
+    },
+    {
+      "id": 470,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'cynical'?",
+      "options": ["hopeful", "skeptical", "sarcastic", "contemptuous"],
+      "answer": 0,
+      "explanation": "Cynical means believing the worst; hopeful is the opposite."
+    },
+    {
+      "id": 471,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'hardy'?",
+      "options": ["weak", "sturdy", "rugged", "resolute"],
+      "answer": 0,
+      "explanation": "Hardy means tough; weak is the opposite."
+    },
+    {
+      "id": 472,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'harmonious'?",
+      "options": ["discordant", "compatible", "agreeable", "tuneful"],
+      "answer": 0,
+      "explanation": "Harmonious means blending well; discordant is the opposite."
+    },
+    {
+      "id": 473,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'mirth'?",
+      "options": ["gloom", "merriment", "glee", "laughter"],
+      "answer": 0,
+      "explanation": "Mirth means merry fun; gloom is the opposite."
+    },
+    {
+      "id": 474,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is an antonym for 'partial'?",
+      "options": ["unbiased", "biased", "prejudiced", "fond of"],
+      "answer": 0,
+      "explanation": "Partial means biased; unbiased is the opposite."
+    },
+    {
+      "id": 475,
+      "unit": "Unit 15",
+      "type": "multiple_choice",
+      "question": "Which word is a synonym for 'coincide'?",
+      "options": ["concur", "differ", "clash", "disagree"],
+      "answer": 0,
+      "explanation": "Coincide means to be in agreement; concur is a synonym."
+    },
+    {
+      "id": 476,
+      "unit": "Unit 15",
+      "type": "true_false",
+      "question": "True or False: 'Legitimate' means unlawful or illegal.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Legitimate means lawful or rightful."
+    },
+    {
+      "id": 477,
+      "unit": "Unit 15",
+      "type": "true_false",
+      "question": "True or False: 'Feud' can mean a bitter, long-term quarrel.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. A feud is a bitter, long-term quarrel."
+    },
+    {
+      "id": 478,
+      "unit": "Unit 15",
+      "type": "true_false",
+      "question": "True or False: 'Indisposed' means eager and willing.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Indisposed means slightly ill or disinclined."
+    },
+        {
+      "id": 479,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to go through an area in order to procure votes, sales, or opinions; to go over in detail'?",
+      "options": ["canvass", "accelerate", "bystander", "quibble"],
+      "answer": 0,
+      "explanation": "Canvass means to go through an area to procure votes or opinions."
+    },
+    {
+      "id": 480,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to evade or belittle a point by twisting words or raising minor objections; a petty objection'?",
+      "options": ["quibble", "canvass", "ratify", "stifle"],
+      "answer": 0,
+      "explanation": "Quibble means to evade a point by raising minor objections."
+    },
+    {
+      "id": 481,
+      "unit": "Unit 9",
+      "type": "multiple_choice",
+      "question": "Which word means 'to approve, give formal approval to, confirm'?",
+      "options": ["ratify", "quibble", "canvass", "erode"],
+      "answer": 0,
+      "explanation": "Ratify means to approve or confirm formally."
+    },
+    {
+      "id": 482,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The volunteers went door-to-door to _____ for the candidate.'",
+      "options": ["canvass", "ratify", "quibble", "stifle"],
+      "answer": 0,
+      "explanation": "Canvass means to go through an area to procure votes."
+    },
+    {
+      "id": 483,
+      "unit": "Unit 9",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The Senate voted to _____ the treaty.'",
+      "options": ["ratify", "canvass", "quibble", "erode"],
+      "answer": 0,
+      "explanation": "Ratify means to give formal approval."
+    },
+    {
+      "id": 484,
+      "unit": "Unit 9",
+      "type": "true_false",
+      "question": "True or False: 'Quibble' means to argue over small, unimportant details.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Quibble means to raise petty objections."
+    },
+        {
+      "id": 485,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'a crime or offense that is less serious than a felony; any minor misbehavior'?",
+      "options": ["misdemeanor", "overture", "pact", "stalemate"],
+      "answer": 0,
+      "explanation": "A misdemeanor is a minor crime or offense."
+    },
+    {
+      "id": 486,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'to think about, ponder; to grind or mix; to heat and flavor with spices'?",
+      "options": ["mull", "wilt", "vindictive", "stalemate"],
+      "answer": 0,
+      "explanation": "Mull means to think about or ponder."
+    },
+    {
+      "id": 487,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'an opening move toward negotiation or action; a proposal or offer; an introductory section'?",
+      "options": ["overture", "pact", "misdemeanor", "stalemate"],
+      "answer": 0,
+      "explanation": "An overture is an opening move or proposal."
+    },
+    {
+      "id": 488,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'an agreement, treaty'?",
+      "options": ["pact", "overture", "stalemate", "wilt"],
+      "answer": 0,
+      "explanation": "A pact is an agreement or treaty."
+    },
+    {
+      "id": 489,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'a situation in which further action by either of two opponents is impossible'?",
+      "options": ["stalemate", "pact", "overture", "mull"],
+      "answer": 0,
+      "explanation": "A stalemate is a situation where further action is impossible."
+    },
+    {
+      "id": 490,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'bearing a grudge, feeling or showing a strong tendency toward revenge'?",
+      "options": ["vindictive", "wilt", "lax", "mull"],
+      "answer": 0,
+      "explanation": "Vindictive means bearing a grudge or seeking revenge."
+    },
+    {
+      "id": 491,
+      "unit": "Unit 11",
+      "type": "multiple_choice",
+      "question": "Which word means 'to become limp and drooping (as a flower), wither; to lose strength and vigor'?",
+      "options": ["wilt", "vindictive", "mull", "stalemate"],
+      "answer": 0,
+      "explanation": "Wilt means to become limp or lose strength."
+    },
+    {
+      "id": 492,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The flowers began to _____ in the heat without water.'",
+      "options": ["wilt", "mull", "overture", "pact"],
+      "answer": 0,
+      "explanation": "Wilt means to become limp or drooping."
+    },
+    {
+      "id": 493,
+      "unit": "Unit 11",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The two nations signed a _____ to end the conflict.'",
+      "options": ["pact", "stalemate", "overture", "misdemeanor"],
+      "answer": 0,
+      "explanation": "A pact is an agreement or treaty."
+    },
+    {
+      "id": 494,
+      "unit": "Unit 11",
+      "type": "true_false",
+      "question": "True or False: 'Stalemate' means a clear victory for one side.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. A stalemate is a standoff where neither side can act."
+    },
+    {
+      "id": 495,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'a face, facial expression; to tolerate or approve'?",
+      "options": ["countenance", "fluctuate", "foster", "pall"],
+      "answer": 0,
+      "explanation": "Countenance means a face or facial expression, or to tolerate."
+    },
+    {
+      "id": 496,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to change continually; to move up and down'?",
+      "options": ["fluctuate", "foster", "pall", "grovel"],
+      "answer": 0,
+      "explanation": "Fluctuate means to change continually or move up and down."
+    },
+    {
+      "id": 497,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to bring up, give care to; to promote, encourage'?",
+      "options": ["foster", "pall", "grovel", "diminish"],
+      "answer": 0,
+      "explanation": "Foster means to bring up, care for, or encourage."
+    },
+    {
+      "id": 498,
+      "unit": "Unit 13",
+      "type": "multiple_choice",
+      "question": "Which word means 'to lose in interest, attraction, or effectiveness; to become tiresome; a dark covering'?",
+      "options": ["pall", "foster", "fluctuate", "revere"],
+      "answer": 0,
+      "explanation": "Pall means to lose interest or become tiresome, or a dark covering."
+    },
+    {
+      "id": 499,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The teacher tried to _____ a love of reading in her students.'",
+      "options": ["foster", "pall", "fluctuate", "grovel"],
+      "answer": 0,
+      "explanation": "Foster means to promote or encourage."
+    },
+    {
+      "id": 500,
+      "unit": "Unit 13",
+      "type": "fill_blank",
+      "question": "Fill in the blank: 'The temperature continued to _____ throughout the day.'",
+      "options": ["fluctuate", "foster", "pall", "revere"],
+      "answer": 0,
+      "explanation": "Fluctuate means to change continually."
+    },
+    {
+      "id": 501,
+      "unit": "Unit 13",
+      "type": "true_false",
+      "question": "True or False: 'Countenance' can mean to tolerate or approve.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Countenance can mean to tolerate or approve."
+    }
+  ]
+}
