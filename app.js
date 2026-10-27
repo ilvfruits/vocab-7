@@ -284,19 +284,50 @@ function renderResults(score, results) {
     qtext.textContent = `${i + 1}. ${r.q.question}`;
     card.appendChild(qtext);
 
-    const yourP = document.createElement("p");
-    yourP.innerHTML =
-      "Your answer: " +
-      (r.userChoice !== null
-        ? "<strong>" + r.q.options[r.userChoice] + "</strong>"
-        : "<em>No answer</em>");
-    card.appendChild(yourP);
+    // Per-choice breakdown table
+    if (r.q.choices && typeof r.q.choices === "object") {
+      const table = document.createElement("table");
+      table.className = "choice-table";
 
-    if (!r.correct) {
-      const correctP = document.createElement("p");
-      correctP.innerHTML =
-        "Correct answer: <strong>" + r.q.options[r.q.answer] + "</strong>";
-      card.appendChild(correctP);
+      const thead = document.createElement("thead");
+      thead.innerHTML = "<tr><th>Choice</th><th>Meaning</th><th></th></tr>";
+      table.appendChild(thead);
+
+      const tbody = document.createElement("tbody");
+      r.q.options.forEach((opt, idx) => {
+        const tr = document.createElement("tr");
+        if (idx === r.q.answer) tr.classList.add("row-correct");
+        if (idx === r.userChoice && idx !== r.q.answer) tr.classList.add("row-wrong");
+
+        const mark =
+          idx === r.q.answer && idx === r.userChoice ? "✅" :
+          idx === r.q.answer                      ? "✔ correct" :
+          idx === r.userChoice                    ? "✘ your pick" :
+                                                    "";
+        tr.innerHTML =
+          `<td><strong>${opt}</strong></td>` +
+          `<td>${r.q.choices[opt] || "—"}</td>` +
+          `<td class="mark">${mark}</td>`;
+        tbody.appendChild(tr);
+      });
+      table.appendChild(tbody);
+      card.appendChild(table);
+    } else {
+      // Fallback: simple your-answer / correct-answer lines
+      const yourP = document.createElement("p");
+      yourP.innerHTML =
+        "Your answer: " +
+        (r.userChoice !== null
+          ? "<strong>" + r.q.options[r.userChoice] + "</strong>"
+          : "<em>No answer</em>");
+      card.appendChild(yourP);
+
+      if (!r.correct) {
+        const correctP = document.createElement("p");
+        correctP.innerHTML =
+          "Correct answer: <strong>" + r.q.options[r.q.answer] + "</strong>";
+        card.appendChild(correctP);
+      }
     }
 
     if (r.q.explanation) {

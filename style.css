@@ -81,3 +81,26 @@ button.ghost {
 button.ghost:hover {
   background: #eef2ff;
 }
+
+.choice-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+.choice-table th {
+  text-align: left;
+  padding: 0.3rem 0.5rem;
+  color: #6b7280;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  border-bottom: 1px solid #e5e7eb;
+}
+.choice-table td {
+  padding: 0.35rem 0.5rem;
+  border-bottom: 1px solid #f3f4f6;
+  vertical-align: top;
+}
+.choice-table .row-correct { background: #ecfdf5; }
+.choice-table .row-wrong   { background: #fef2f2; }
+.choice-table .mark { white-space: nowrap; font-weight: 600; font-size: 0.8rem; }
